@@ -11,11 +11,9 @@ Constitutional Alignment:
 from dataclasses import dataclass
 from typing import Optional
 import structlog
+from src.config import get_settings
 
 logger = structlog.get_logger(__name__)
-
-# Default maximum body length (5000 characters)
-DEFAULT_MAX_LENGTH = 5000
 
 
 @dataclass
@@ -28,13 +26,13 @@ class TruncationResult:
     truncation_marker: Optional[str] = None
 
 
-def truncate_body(body: str, max_length: int = DEFAULT_MAX_LENGTH) -> TruncationResult:
+def truncate_body(body: str, max_length: Optional[int] = None) -> TruncationResult:
     """
     Truncate email body to maximum length to prevent memory exhaustion.
 
     Args:
         body: Email body text to truncate
-        max_length: Maximum allowed length (default: 5000)
+        max_length: Maximum allowed length (defaults to settings.email_body_max_length)
 
     Returns:
         TruncationResult with truncated body and metadata
@@ -50,6 +48,11 @@ def truncate_body(body: str, max_length: int = DEFAULT_MAX_LENGTH) -> Truncation
         >>> len(result.body)
         5000
     """
+    # Load from settings if not provided
+    if max_length is None:
+        settings = get_settings()
+        max_length = settings.email_body_max_length
+
     if not body:
         return TruncationResult(
             body="",

@@ -8,23 +8,26 @@ import json
 from typing import List, Dict
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
-import os
 import structlog
 
 # Import security modules
 from src.sanitization.rate_limiter import rate_limited_llm_call
 from src.sanitization.prompt_injection_detector import detect_prompt_injection
+# Import configuration
+from src.config import get_settings
 
 logger = structlog.get_logger(__name__)
 
 
 def get_llm():
     """Get LLM instance (OpenAI or Anthropic based on available key)."""
-    if os.getenv('OPENAI_API_KEY'):
-        # Using latest GPT-4o for better intelligence extraction
-        return ChatOpenAI(model="gpt-4o", temperature=0)
-    elif os.getenv('ANTHROPIC_API_KEY'):
-        return ChatAnthropic(model="claude-3-5-sonnet-20241022", temperature=0)
+    settings = get_settings()
+
+    if settings.openai_api_key:
+        # Using configured model from settings
+        return ChatOpenAI(model=settings.agent2_model, temperature=0)
+    elif settings.anthropic_api_key:
+        return ChatAnthropic(model=settings.agent2_model, temperature=0)
     else:
         raise ValueError("No API key found. Set OPENAI_API_KEY or ANTHROPIC_API_KEY")
 

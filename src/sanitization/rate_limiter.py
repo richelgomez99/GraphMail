@@ -31,6 +31,7 @@ from threading import Lock
 import random
 import time
 import structlog
+from src.config import get_settings
 
 logger = structlog.get_logger(__name__)
 
@@ -81,17 +82,21 @@ _rate_limiters = {}
 _limiter_lock = Lock()
 
 
-def get_rate_limiter(max_calls: int = 50, period: int = 60) -> RateLimiter:
+def get_rate_limiter(max_calls: Optional[int] = None, period: int = 60) -> RateLimiter:
     """
     Get or create a rate limiter with specified limits.
 
     Args:
-        max_calls: Maximum calls per period
+        max_calls: Maximum calls per period (defaults to settings.rate_limit_per_minute)
         period: Period in seconds
 
     Returns:
         RateLimiter instance
     """
+    if max_calls is None:
+        settings = get_settings()
+        max_calls = settings.rate_limit_per_minute
+
     key = f"{max_calls}_{period}"
 
     with _limiter_lock:
@@ -253,9 +258,9 @@ def rate_limited_llm_call(
     func: Callable,
     *args,
     limiter: Optional[RateLimiter] = None,
-    max_retries: int = 3,
-    base_delay: float = 1.0,
-    max_total_time: float = 10.0,
+    max_retries: Optional[int] = None,
+    base_delay: Optional[float] = None,
+    max_total_time: Optional[float] = None,
     **kwargs
 ) -> Any:
     """
@@ -293,6 +298,16 @@ def rate_limited_llm_call(
         - Article IX: Performance Budgets (total retry time <10s)
         - Article V: Evidence Traceability (all retries logged)
     """
+    # Load defaults from settings if not provided
+    if max_retries is None or base_delay is None or max_total_time is None:
+        settings = get_settings()
+        if max_retries is None:
+            max_retries = settings.max_retries
+        if base_delay is None:
+            base_delay = settings.retry_base_delay
+        if max_total_time is None:
+            max_total_time = settings.retry_max_total_time
+
     if limiter is None:
         limiter = get_rate_limiter()
 
