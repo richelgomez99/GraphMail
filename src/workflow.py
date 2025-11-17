@@ -95,6 +95,16 @@ def run_pipeline(
     Returns:
         Final state with graph and metrics
     """
+    # Generate correlation ID for this pipeline run
+    from src.logging import set_correlation_id, generate_correlation_id
+    correlation_id = generate_correlation_id()
+    set_correlation_id(correlation_id)
+
+    logger.info("pipeline.started",
+                correlation_id=correlation_id,
+                email_count=len(raw_emails),
+                has_calendar=bool(raw_calendar))
+
     if verbose:
         print("\n" + "="*60)
         print("GRAPH-FIRST PROJECT INTELLIGENCE SYSTEM")
@@ -112,6 +122,14 @@ def run_pipeline(
     # Run pipeline
     result = graph_system.invoke(input_state)
     
+    logger.info("pipeline.complete",
+                correlation_id=correlation_id,
+                projects_extracted=len(result.get('project_intelligence', [])),
+                graph_nodes=result['verified_graph'].number_of_nodes(),
+                graph_edges=result['verified_graph'].number_of_edges(),
+                rejected_facts=len(result['rejected_facts']),
+                trust_score=result['evaluation_metrics']['trust_score'])
+
     if verbose:
         print("\n" + "="*60)
         print("PIPELINE COMPLETE")
@@ -147,6 +165,8 @@ def save_results(result: Dict, output_dir: str = "./output"):
     try:
         nx.write_graphml(result['verified_graph'], f"{output_dir}/knowledge_graph.graphml")
     except TypeError:
+        logger.warning("results.graphml_export_skipped",
+                      reason="dict attributes not supported")
         print("⚠️  GraphML export skipped (dict attributes not supported)")
     
     # Save project intelligence
@@ -161,6 +181,7 @@ def save_results(result: Dict, output_dir: str = "./output"):
     with open(f"{output_dir}/trust_score.json", 'w') as f:
         json.dump(result['evaluation_metrics'], f, indent=2)
     
+    logger.info("results.saved", output_dir=output_dir)
     print(f"✅ Results saved to {output_dir}/")
 
 
@@ -215,5 +236,6 @@ Sage'''
         }
     ]
     
+    logger.info("demo.test_started")
     print("Running test with sample emails...")
     result = run_pipeline(sample_emails, verbose=True)

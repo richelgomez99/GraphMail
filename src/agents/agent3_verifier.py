@@ -81,7 +81,10 @@ class GraphBuilder:
             evidence=project_data.get('evidence', [])
         )
         
-        print(f"[Agent 3] Added project node: {project_data['project_name']}")
+        logger.info("agent3.project_added",
+                   project_id=project_id,
+                   project_name=project_data['project_name'],
+                   project_type=project_data.get('project_type', 'Other'))
         
         # Add topics
         for topic in project_data.get('topics', []):
@@ -269,7 +272,7 @@ Output ONLY the JSON, no additional text.
             result = json.loads(content)
             return result.get('supported', False)
         except Exception as e:
-            print(f"[Agent 3] Verification error: {str(e)}")
+            logger.error("agent3.verification_error", error=str(e), claim=claim[:100])
             # Conservative: reject if verification fails
             return False
     
@@ -320,7 +323,8 @@ def agent_3_verifier(state: Dict) -> Dict:
     Returns:
         Updated state with verified_graph, graph_json
     """
-    print("[Agent 3] Starting fact verification and graph building...")
+    logger.info("agent3.verification_started",
+                project_count=len(state.get('project_intelligence', [])))
     
     builder = GraphBuilder()
     
@@ -336,10 +340,11 @@ def agent_3_verifier(state: Dict) -> Dict:
     
     # Get stats
     stats = builder.get_graph_stats()
-    print(f"[Agent 3] Graph Stats: {stats}")
-    print(f"[Agent 3] Rejected Facts: {len(builder.rejected_facts)}")
-    
-    print("[Agent 3] Complete")
+    logger.info("agent3.verification_complete",
+                nodes=stats['nodes'],
+                edges=stats['edges'],
+                projects=stats.get('projects', 0),
+                rejected_facts=len(builder.rejected_facts))
     
     return {
         "verified_graph": builder.graph,

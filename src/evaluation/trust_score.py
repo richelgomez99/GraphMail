@@ -1,14 +1,19 @@
 """Custom evaluation metric: Project Intelligence Trust Score
 
 Formula:
-Trust Score = (Fact_Traceability × 0.35) + 
-              (Extraction_Completeness × 0.25) + 
+Trust Score = (Fact_Traceability × 0.35) +
+              (Extraction_Completeness × 0.25) +
               (Phase_Inference_Accuracy × 0.20) +
               (1 - Hallucination_Rate) × 0.20
+
+Logging: Structured logging for evaluation metrics.
 """
 
 import networkx as nx
 from typing import Dict, List
+import structlog
+
+logger = structlog.get_logger(__name__)
 
 
 def calculate_trust_score(
@@ -317,6 +322,23 @@ def estimate_completeness(graph: nx.DiGraph, source_emails: List[Dict]) -> float
 
 def print_trust_score_report(metrics: Dict):
     """Print formatted Trust Score report."""
+    # Log evaluation metrics
+    logger.info("evaluation.trust_score_report",
+                trust_score=metrics['trust_score'],
+                fact_traceability=metrics['fact_traceability'],
+                extraction_completeness=metrics['extraction_completeness'],
+                phase_accuracy=metrics['phase_accuracy'],
+                anti_hallucination=1 - metrics['hallucination_rate'],
+                total_facts=metrics['total_facts'],
+                traceable_facts=metrics['traceable_facts'],
+                hallucinations_count=len(metrics['hallucinations']))
+
+    if metrics['hallucinations']:
+        logger.warning("evaluation.hallucinations_detected",
+                      count=len(metrics['hallucinations']),
+                      hallucinations=[h['type'] for h in metrics['hallucinations'][:5]])
+
+    # Print formatted report for human consumption
     print("\n" + "="*60)
     print("PROJECT INTELLIGENCE TRUST SCORE REPORT")
     print("="*60)

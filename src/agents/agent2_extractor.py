@@ -65,7 +65,10 @@ def extract_project_intelligence_llm(
         )
 
     # SECURITY: Invoke LLM with rate limiting
-    print(f"[Agent 2] Extracting intelligence for {project_name}...")
+    logger.info("agent2.extraction_started",
+                project_id=project_id,
+                project_name=project_name,
+                email_count=len(emails))
     response = rate_limited_llm_call(llm.invoke, prompt)
     
     # Parse response
@@ -288,7 +291,7 @@ def agent_2_extractor(state: Dict) -> Dict:
     Returns:
         Updated state with project_intelligence
     """
-    print("[Agent 2] Starting project intelligence extraction...")
+    logger.info("agent2.batch_extraction_started", project_count=len(projects))
     
     intelligence = []
     
@@ -314,12 +317,17 @@ def agent_2_extractor(state: Dict) -> Dict:
                 calendar_events=[]
             )
             intelligence.append(project_intel)
-            print(f"[Agent 2] Extracted: {project_intel['project_name']}")
+            logger.info("agent2.project_extracted",
+                       project_id=project_id,
+                       project_name=project_intel['project_name'])
         except Exception as e:
-            print(f"[Agent 2] Error extracting {project_id}: {str(e)}")
+            logger.error("agent2.extraction_failed",
+                        project_id=project_id,
+                        error=str(e))
             continue
     
-    print(f"[Agent 2] Extracted intelligence for {len(intelligence)} projects")
-    print("[Agent 2] Complete")
+    logger.info("agent2.batch_extraction_complete",
+                projects_extracted=len(intelligence),
+                projects_failed=len(projects) - len(intelligence))
     
     return {"project_intelligence": intelligence}
