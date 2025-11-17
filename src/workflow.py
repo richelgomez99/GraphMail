@@ -23,6 +23,9 @@ from src.agents.agent1_parser import agent_1_parser
 from src.agents.agent2_extractor import agent_2_extractor
 from src.agents.agent3_verifier import agent_3_verifier
 from src.evaluation.trust_score import calculate_trust_score, print_trust_score_report
+from src.logging import get_logger, set_correlation_id, generate_correlation_id
+
+logger = get_logger(__name__)
 
 
 def build_workflow() -> StateGraph:
@@ -60,7 +63,9 @@ def evaluation_node(state: Dict) -> Dict:
     Returns:
         Updated state with evaluation_metrics
     """
-    print("[Evaluation] Calculating Trust Score...")
+    logger.info("evaluation.started",
+                 graph_nodes=state['verified_graph'].number_of_nodes(),
+                 graph_edges=state['verified_graph'].number_of_edges())
     
     # Calculate metrics
     metrics = calculate_trust_score(
