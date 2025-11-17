@@ -1,0 +1,168 @@
+{
+  "project_0": {
+    "quinn.baker@startupco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Collaborator",
+    "sage.harris@consultingco.com": "Team Member"
+  },
+  "project_1": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "jamie.adams@startupco.com": "Team Member"
+  },
+  "project_2": {
+    "taylor.parker@consultingco.com": "Team Member",
+    "jamie.walker@consultingco.com": "Team Member"
+  },
+  "project_3": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "jamie.adams@startupco.com": "Collaborator",
+    "sage.harris@consultingco.com": "Support/Observer"
+  },
+  "project_4": {
+    "reese.anderson@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Support/Observer",
+    "sage.harris@consultingco.com": "Client Lead"
+  },
+  "project_5": {
+    "taylor.parker@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Support/Observer",
+    "indigo.davis@consultingco.com": "Collaborator"
+  },
+  "project_6": {
+    "avery.young@consultingco.com": "Support/Observer",
+    "reese.anderson@consultingco.com": "Collaborator",
+    "sage.harris@consultingco.com": "Team Member"
+  },
+  "project_7": {
+    "terry.garcia@consultingco.com": "Support/Observer",
+    "charlie.brooks@consultingco.com": "Collaborator",
+    "jamie.adams@startupco.com": "Team Member",
+    "reese.anderson@consultingco.com": "Support/Observer",
+    "terry.palmer@consultingco.com": "Team Member",
+    "sage.harris@consultingco.com": "Client Lead"
+  },
+  "project_8": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "hollis.murray@consultingco.com": "Team Member"
+  },
+  "project_9": {
+    "hayden.evans@consultingco.com": "Collaborator",
+    "kelly.underwood@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Collaborator"
+  },
+  "project_10": {
+    "terry.garcia@consultingco.com": "Team Member",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "taylor.parker@consultingco.com": "Team Member",
+    "jamie.adams@startupco.com": "Team Member"
+  },
+  "project_11": {
+    "hayden.evans@consultingco.com": "Support/Observer",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "kelly.underwood@consultingco.com": "Team Member"
+  },
+  "project_12": {
+    "terry.garcia@consultingco.com": "Support/Observer",
+    "hayden.evans@consultingco.com": "Collaborator",
+    "jamie.adams@startupco.com": "Collaborator",
+    "kelly.underwood@consultingco.com": "Support/Observer",
+    "terry.palmer@consultingco.com": "Support/Observer"
+  },
+  "project_13": {
+    "sam.stone@startupco.com": "Support/Observer",
+    "indigo.walker@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Collaborator"
+  },
+  "project_14": {
+    "sam.stone@startupco.com": "Team Member",
+    "hayden.evans@consultingco.com": "Collaborator",
+    "oakley.brooks@consultingco.com": "Support/Observer"
+  },
+  "project_15": {
+    "lennon.quinn@consultingco.com": "Support/Observer",
+    "hayden.moore@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "taylor.parker@consultingco.com": "Support/Observer",
+    "hollis.murray@consultingco.com": "Collaborator"
+  },
+  "project_16": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "taylor.parker@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Collaborator"
+  },
+  "project_17": {
+    "jamie.adams@startupco.com": "Collaborator",
+    "indigo.walker@consultingco.com": "Support/Observer",
+    "oakley.brooks@consultingco.com": "Collaborator",
+    "hayden.moore@consultingco.com": "Team Member",
+    "terry.palmer@consultingco.com": "Collaborator"
+  },
+  "project_18": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "oakley.brooks@consultingco.com": "Team Member"
+  },
+  "project_19": {
+    "skylar.stone@consultingco.com": "Collaborator",
+    "jules.gray@consultingco.com": "Team Member",
+    "hayden.evans@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator"
+  },
+  "project_20": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "indigo.webb@consultingco.com": "Client Lead"
+  },
+  "project_21": {
+    "hayden.moore@consultingco.com": "Support/Observer",
+    "indigo.walker@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "oakley.brooks@consultingco.com": "Support/Observer"
+  },
+  "project_22": {
+    "hayden.evans@consultingco.com": "Support/Observer",
+    "oakley.brooks@consultingco.com": "Collaborator",
+    "arden.scott@consultingco.com": "Support/Observer",
+    "kelly.underwood@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator"
+  },
+  "project_23": {
+    "hayden.moore@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator"
+  },
+  "project_24": {
+    "terry.garcia@consultingco.com": "Support/Observer",
+    "hayden.evans@consultingco.com": "Support/Observer",
+    "lennon.quinn@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Support/Observer",
+    "sam.stone@genericemail.com": "Collaborator",
+    "indigo.walker@consultingco.com": "Support/Observer",
+    "oakley.brooks@consultingco.com": "Team Member",
+    "jamie.adams@genericemail.com": "Support/Observer",
+    "kelly.underwood@consultingco.com": "Collaborator",
+    "hayden.moore@consultingco.com": "Support/Observer",
+    "sam.stone@startupco.com": "Support/Observer",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "taylor.parker@consultingco.com": "Support/Observer",
+    "sage.harris@consultingco.com": "Collaborator"
+  },
+  "project_25": {
+    "hayden.evans@consultingco.com": "Support/Observer",
+    "lennon.quinn@consultingco.com": "Support/Observer",
+    "jamie.adams@startupco.com": "Collaborator",
+    "kelly.underwood@consultingco.com": "Collaborator",
+    "hayden.moore@consultingco.com": "Collaborator",
+    "terry.palmer@consultingco.com": "Collaborator",
+    "hollis.murray@consultingco.com": "Support/Observer"
+  },
+  "project_26": {
+    "bailey.taylor@consultingco.com": "Team Member",
+    "terry.palmer@consultingco.com": "Support/Observer",
+    "hollis.murray@consultingco.com": "Collaborator",
+    "jamie.adams@startupco.com": "Collaborator"
+  },
+  "project_27": {
+    "terry.palmer@consultingco.com": "Collaborator",
+    "hollis.murray@consultingco.com": "Team Member",
+    "lennon.quinn@consultingco.com": "Support/Observer"
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "message_id": "msg_001",
+    "from": "sage.harris@consultingco.com",
+    "to": [
+      "jamie.adams@startupco.com"
+    ],
+    "subject": "StartupCo Brand Book - Project Kickoff",
+    "date": "2026-03-25",
+    "body_text": "Hi Jamie,\n\nGreat to connect yesterday! I'm excited to work on the StartupCo Online Brand Book project.\n\nBased on our discussion, here's what I understand:\n- Scope: Create an online brand book with API access for dynamic content\n- Timeline: 4 weeks (deliver by April 22)\n- Key deliverables: Brand guidelines, color palette, typography system, logo usage\n\nLet me know if I missed anything!\n\nBest,\nSage Harris\nConsulting Lead\nConsultingCo"
+  },
+  {
+    "message_id": "msg_002",
+    "from": "jamie.adams@startupco.com",
+    "to": [
+      "sage.harris@consultingco.com"
+    ],
+    "subject": "Re: StartupCo Brand Book - Project Kickoff",
+    "date": "2026-03-26",
+    "body_text": "Hi Sage,\n\nLooks good overall! One concern: I'm not sure about sharing our API keys for the integration. \nCould we explore other options for the dynamic content feature?\n\nAlso, can we add social media templates to the scope?\n\nThanks,\nJamie Adams\nCTO, StartupCo"
+  },
+  {
+    "message_id": "msg_003",
+    "from": "sage.harris@consultingco.com",
+    "to": [
+      "jamie.adams@startupco.com"
+    ],
+    "subject": "Re: StartupCo Brand Book - API Solution",
+    "date": "2026-03-27",
+    "body_text": "Jamie,\n\nGreat question. Instead of direct API integration, we can use a hosted solution. \nThis way you don't need to share credentials and we get better security.\n\nRegarding social media templates - yes, we can add that. Should be straightforward.\n\nSound good?\n\nSage"
+  },
+  {
+    "message_id": "msg_004",
+    "from": "jamie.adams@startupco.com",
+    "to": [
+      "sage.harris@consultingco.com"
+    ],
+    "subject": "Re: StartupCo Brand Book - Approved!",
+    "date": "2026-03-27",
+    "body_text": "Perfect! Let's go with the hosted solution. Approved on my end.\n\nLooking forward to the first draft.\n\nJamie"
+  },
+  {
+    "message_id": "msg_005",
+    "from": "sage.harris@consultingco.com",
+    "to": [
+      "jamie.adams@startupco.com",
+      "quinn.baker@startupco.com"
+    ],
+    "subject": "StartupCo Brand Book - First Draft Ready",
+    "date": "2026-04-10",
+    "body_text": "Hi Jamie and Quinn,\n\nFirst draft of the brand book is ready for review:\n- Brand guidelines complete\n- Color palette: primary, secondary, accent colors defined\n- Typography system: headings, body, monospace fonts selected\n- Logo usage rules documented\n- Social media templates: Twitter, LinkedIn, Instagram\n\nPlease review and share feedback by Friday.\n\nBest,\nSage"
+  },
+  {
+    "message_id": "msg_006",
+    "from": "quinn.baker@startupco.com",
+    "to": [
+      "sage.harris@consultingco.com"
+    ],
+    "cc": [
+      "jamie.adams@startupco.com"
+    ],
+    "subject": "Re: StartupCo Brand Book - Feedback",
+    "date": "2026-04-12",
+    "body_text": "Sage,\n\nThis looks great! A few minor changes:\n- Can we adjust the primary blue to be slightly darker?\n- Instagram template needs our new tagline\n\nOtherwise we're good to go!\n\nQuinn Baker\nMarketing Director, StartupCo"
+  },
+  {
+    "message_id": "msg_007",
+    "from": "sage.harris@consultingco.com",
+    "to": [
+      "quinn.baker@startupco.com",
+      "jamie.adams@startupco.com"
+    ],
+    "subject": "StartupCo Brand Book - Final Version",
+    "date": "2026-04-20",
+    "body_text": "Quinn, Jamie,\n\nFinal version ready with your feedback incorporated:\n\u2713 Primary blue darkened\n\u2713 Instagram template updated with tagline\n\u2713 All assets uploaded to hosted platform\n\nProject complete! Let me know if you need anything else.\n\nBest,\nSage"
+  }
+]

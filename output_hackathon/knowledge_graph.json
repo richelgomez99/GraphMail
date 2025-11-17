@@ -1,0 +1,2229 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "Project",
+      "name": "StartupCo Digital Assets - Next steps",
+      "project_type": "Technology/Engineering",
+      "timeline": {
+        "start": "2026-03-25",
+        "end": "",
+        "evidence": [
+          "msg_f4a5baaf709c"
+        ]
+      },
+      "scope": "Following your conversation with Terry Palmer, we are happy to proceed since you've approved the project scope and requirements.",
+      "phase": "Execution",
+      "phase_reasoning": "The email discusses next steps such as platform access and configuration, indicating that the project is in the execution phase.",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "id": "project_001"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Platform Access",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "id": "topic_platform_access"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Gateway",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "id": "topic_payment_gateway"
+    },
+    {
+      "node_type": "Topic",
+      "name": "API Integration",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "id": "topic_api_integration"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo Online Brand Book",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2026-03-26",
+        "end": "2026-04-22",
+        "evidence": [
+          "msg_c4f3ee015cae",
+          "msg_9c61bc08d730"
+        ]
+      },
+      "scope": "The project involves creating or updating an online brand book for StartupCo.",
+      "phase": "Execution",
+      "phase_reasoning": "The emails indicate active work on the project, such as discussing next steps and adding team members for specific tasks, rather than initial scoping or final delivery.",
+      "evidence": [
+        "msg_c4f3ee015cae",
+        "msg_9e3f15cd47e2",
+        "msg_e578e66bf224",
+        "msg_fa2878c59438",
+        "msg_9c61bc08d730"
+      ],
+      "id": "project_002"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Reconciliation Tasks",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "id": "topic_financial_reconciliation_tasks"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Hosting",
+      "evidence": [
+        "msg_fa2878c59438"
+      ],
+      "id": "topic_hosting"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Jamie Adams was unaware of the need to approve the project, indicating a possible communication issue.",
+      "category": "Communication",
+      "raised_date": "2026-03-26",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "id": "project_002_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Request to transfer financial reconciliation tasks to someone from the StartupCo team after the Holiday Season.",
+      "category": "Scope",
+      "raised_date": "2026-03-26",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "id": "project_002_ch_002"
+    },
+    {
+      "node_type": "Project",
+      "name": "Your opinion is important to us!",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "2023-10-05",
+        "end": "2023-10-11",
+        "evidence": [
+          "msg_66f73ab77073",
+          "msg_c846c992a8bc"
+        ]
+      },
+      "scope": "Launching an updated website showcasing new features with client testimonials, specifically focusing on efficient payment workflows.",
+      "phase": "Delivery",
+      "phase_reasoning": "Emails indicate finalizing content for the website update, suggesting the project is in the delivery phase.",
+      "evidence": [
+        "msg_555bc47690bb",
+        "msg_8aa044c8ad74",
+        "msg_4b625dc43c4a",
+        "msg_c846c992a8bc",
+        "msg_66f73ab77073",
+        "msg_88a79e0a6947"
+      ],
+      "id": "project_006"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Testimonial for Website",
+      "evidence": [
+        "msg_555bc47690bb"
+      ],
+      "id": "topic_testimonial_for_website"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Processing Timeline",
+      "evidence": [
+        "msg_8aa044c8ad74"
+      ],
+      "id": "topic_payment_processing_timeline"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Operations Platform Feedback",
+      "evidence": [
+        "msg_66f73ab77073"
+      ],
+      "id": "topic_financial_operations_platform_feedback"
+    },
+    {
+      "node_type": "Project",
+      "name": "ConsultingCo|StartupCo-New Scope",
+      "project_type": "Other",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "",
+      "phase_reasoning": "",
+      "evidence": [
+        "msg_b0c415568fa0"
+      ],
+      "id": "project_010"
+    },
+    {
+      "node_type": "Project",
+      "name": "ConsultingCo|StartupCo-New Scope",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2023-08-05",
+        "end": "2023-08-17",
+        "evidence": [
+          "msg_fcd05ff0e63c",
+          "msg_f72737812720"
+        ]
+      },
+      "scope": "Deliver design assets including LinkedIn and Twitter cover pages, a graphic with visual elements, additional icons for a product demo, and finalize design files for launch.",
+      "phase": "Execution",
+      "phase_reasoning": "Emails show active work and progress updates rather than scoping questions",
+      "evidence": [
+        "msg_fcd05ff0e63c",
+        "msg_7ace86850cc9",
+        "msg_d7a255321795",
+        "msg_7f2ec00cd4ed",
+        "msg_3bd38d749025",
+        "msg_b05d510f5538",
+        "msg_93b5f3bb266c",
+        "msg_396820d45718",
+        "msg_36d641731c24",
+        "msg_e486c57f46f2",
+        "msg_f72737812720"
+      ],
+      "id": "project_013"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Design Files and Icons",
+      "evidence": [
+        "msg_fcd05ff0e63c"
+      ],
+      "id": "topic_design_files_and_icons"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Invoice Integration",
+      "evidence": [
+        "msg_7ace86850cc9"
+      ],
+      "id": "topic_invoice_integration"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Workflow Optimization",
+      "evidence": [
+        "msg_3bd38d749025"
+      ],
+      "id": "topic_payment_workflow_optimization"
+    },
+    {
+      "node_type": "Topic",
+      "name": "System Icons",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "id": "topic_system_icons"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Integration Modules",
+      "evidence": [
+        "msg_93b5f3bb266c"
+      ],
+      "id": "topic_integration_modules"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Missing LinkedIn and Twitter cover pages and additional icons needed urgently for product demo.",
+      "category": "Timeline",
+      "raised_date": "2023-08-05",
+      "evidence": [
+        "msg_fcd05ff0e63c"
+      ],
+      "id": "project_013_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Difficulty in locating the icon for transaction reconciliation.",
+      "category": "Technical",
+      "raised_date": "2023-08-11",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "id": "project_013_ch_002"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Requested a screenshot from StartupCo to finalize the system icons.",
+      "resolved_date": "2023-08-11",
+      "methodology": "Requesting additional information from the client",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "id": "project_013_res_002"
+    },
+    {
+      "node_type": "Project",
+      "name": "ConsultingCo| StartupCo-New Scope",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "2023-08-18",
+        "end": "2023-09-05",
+        "evidence": [
+          "msg_0502c820bc6e",
+          "msg_b439b65f86ec"
+        ]
+      },
+      "scope": "Amending visuals and elements for financial systems, including workflow diagrams, symbols for payment methods, automated reconciliation, and dynamic transaction flow. Finalizing key financial reporting layouts.",
+      "phase": "Delivery",
+      "phase_reasoning": "Emails show final deliverables being shared and reviewed, indicating the project is in the delivery phase.",
+      "evidence": [
+        "msg_0502c820bc6e",
+        "msg_00a19f12f95d",
+        "msg_d7ade94c8b67",
+        "msg_e179a930f045",
+        "msg_cc243e714e2d",
+        "msg_a224d36407b7",
+        "msg_b439b65f86ec"
+      ],
+      "id": "project_015"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Workflow Diagram Updates",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "id": "topic_workflow_diagram_updates"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Methods Representation",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "id": "topic_payment_methods_representation"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Automated Reconciliation Highlight",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "id": "topic_automated_reconciliation_highlight"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Dynamic Transaction Flow",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "id": "topic_dynamic_transaction_flow"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Reporting Templates",
+      "evidence": [
+        "msg_00a19f12f95d"
+      ],
+      "id": "topic_financial_reporting_templates"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Processing Feature",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "id": "topic_payment_processing_feature"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Data Security",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "id": "topic_data_security"
+    },
+    {
+      "node_type": "Topic",
+      "name": "User-friendly Payment Automation",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "id": "topic_user-friendly_payment_automation"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Running out of ideas for the payment processing feature",
+      "category": "Technical",
+      "raised_date": "2023-08-29",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "id": "project_015_ch_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Requested client input for specific ideas to illustrate the payment processing feature",
+      "resolved_date": "2023-08-29",
+      "methodology": "Client collaboration",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "id": "project_015_res_001"
+    },
+    {
+      "node_type": "Project",
+      "name": "RAK Branding: Request for additional information",
+      "project_type": "Design/Branding",
+      "timeline": {},
+      "scope": "",
+      "phase": "Scoping",
+      "phase_reasoning": "The email subject and content suggest a request for additional information, indicating the project is in the scoping phase.",
+      "evidence": [
+        "msg_c6b75340dc0f"
+      ],
+      "id": "project_016"
+    },
+    {
+      "node_type": "Project",
+      "name": "Series A Pitch Deck Slide",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2023-01-20",
+        "end": "2023-01-23",
+        "evidence": [
+          "msg_3ef393ff4a39",
+          "msg_064e979fb862"
+        ]
+      },
+      "scope": "Add one slide about the new branding to impress investors, including visual representation of commitment to financial efficiency and secure transaction flows.",
+      "phase": "Execution",
+      "phase_reasoning": "Emails indicate active work on the project, including progress updates and final delivery confirmation.",
+      "evidence": [
+        "msg_3ef393ff4a39"
+      ],
+      "id": "project_018"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Invoice Automation System",
+      "evidence": [
+        "msg_26de3381f50c"
+      ],
+      "id": "topic_invoice_automation_system"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Efficiency Visualization",
+      "evidence": [
+        "msg_3ef393ff4a39"
+      ],
+      "id": "topic_financial_efficiency_visualization"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Urgent need for a pitch deck slide within a tight timeline",
+      "category": "Timeline",
+      "raised_date": "2023-01-20",
+      "evidence": [
+        "msg_3ef393ff4a39"
+      ],
+      "id": "project_018_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Concern about investor confusion due to branding transition",
+      "category": "Communication",
+      "raised_date": "2023-01-20",
+      "evidence": [
+        "msg_0f634283c309"
+      ],
+      "id": "project_018_ch_002"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Consulting team provided the requested slide promptly",
+      "resolved_date": "2023-01-21",
+      "methodology": "Rapid development and delivery",
+      "evidence": [
+        "msg_2d586dbef2f7"
+      ],
+      "id": "project_018_res_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Decision to maintain old branding for the pitch to avoid confusion",
+      "resolved_date": "2023-01-20",
+      "methodology": "Maintained consistency with current branding in investor materials",
+      "evidence": [
+        "msg_0f634283c309"
+      ],
+      "id": "project_018_res_002"
+    },
+    {
+      "node_type": "Project",
+      "name": "startupco messaging architecture",
+      "project_type": "Technology/Engineering",
+      "timeline": {},
+      "scope": "We're having a big new platform rollout",
+      "phase": "Execution",
+      "phase_reasoning": "The email mentions reviewing something internally which suggests active work on the project.",
+      "evidence": [
+        "msg_9fe7093f5883"
+      ],
+      "id": "project_023"
+    },
+    {
+      "node_type": "Project",
+      "name": "MediaPlatform <> ConsultingCo",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "2022-11-05",
+        "end": "2022-11-23",
+        "evidence": [
+          "msg_9b13f5c9802a",
+          "msg_6238d929a18b"
+        ]
+      },
+      "scope": "Conducting a strategic review or market analysis to validate proposed financial workflows and implement a payment workflow with tiered payment processing options.",
+      "phase": "Scoping",
+      "phase_reasoning": "Emails indicate ongoing discussions about project requirements, scope clarification, and validation of financial workflows rather than active project execution or delivery.",
+      "evidence": [
+        "msg_9b13f5c9802a"
+      ],
+      "id": "project_025"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Strategic Review/Market Analysis",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "id": "topic_strategic_review_market_analysis"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Workflows Validation",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "id": "topic_financial_workflows_validation"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Workflow Implementation",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "id": "topic_payment_workflow_implementation"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Transaction Processing Parameters",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "id": "topic_transaction_processing_parameters"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Tiered Payment Processing Options",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "id": "topic_tiered_payment_processing_options"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Need to thoroughly validate proposed financial workflows before proceeding.",
+      "category": "Scope",
+      "raised_date": "2022-11-07",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "id": "project_025_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Concerns about a significant processing fee increase.",
+      "category": "Budget",
+      "raised_date": "2022-11-08",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "id": "project_025_ch_002"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Attachment issues in email communication.",
+      "category": "Communication",
+      "raised_date": "2022-11-08",
+      "evidence": [
+        "msg_70a64460e49e",
+        "msg_e3fc40a5950b"
+      ],
+      "id": "project_025_ch_003"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Decision to conduct a review session to finalize transaction processing parameters.",
+      "resolved_date": "2022-11-07",
+      "methodology": "Review session planning",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "id": "project_025_res_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Proposal to offer tiered payment processing options to cater to varied transaction volumes and client requirements.",
+      "resolved_date": "2022-11-08",
+      "methodology": "Adjustment of payment processing fees structure",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "id": "project_025_res_002"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Corrected document finally attached and sent.",
+      "resolved_date": "2022-11-08",
+      "methodology": "Sending the correct attachment",
+      "evidence": [
+        "msg_1690659cc1ff"
+      ],
+      "id": "project_025_res_003"
+    },
+    {
+      "node_type": "Project",
+      "name": "Client Discussion <> ConsultingCo",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-11-07",
+        "end": "",
+        "evidence": [
+          "msg_346af3290df7"
+        ]
+      },
+      "scope": "After checking out the brief, it is clear that they only need platform branding, not market positioning. So, in terms of deliverables, I was thinking of just including two options: one style guide with logo + platform assets, and one complete platform guidelines.",
+      "phase": "Scoping",
+      "phase_reasoning": "The email discusses deliverables and clarifies the scope of work rather than providing progress updates or resolving issues, indicating the project is in the scoping phase.",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "id": "project_026"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Platform Branding",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "id": "topic_platform_branding"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Style Guide with Logo",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "id": "topic_style_guide_with_logo"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Platform Assets",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "id": "topic_platform_assets"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Complete Platform Guidelines",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "id": "topic_complete_platform_guidelines"
+    },
+    {
+      "node_type": "Project",
+      "name": "PartnerCo <> ConsultingCo System Redesign / Rebranding",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-11-08",
+        "end": "",
+        "evidence": [
+          "msg_9c01bdc70f50"
+        ]
+      },
+      "scope": "Ok so please remove \"system upgrade\" from the two options, since it is a system redesign / Rebranding exercise.",
+      "phase": "Scoping",
+      "phase_reasoning": "The email discusses refining project options and scope, indicating the project is in the scoping phase.",
+      "evidence": [
+        "msg_9c01bdc70f50"
+      ],
+      "id": "project_028"
+    },
+    {
+      "node_type": "Topic",
+      "name": "System Redesign",
+      "evidence": [
+        "msg_9c01bdc70f50"
+      ],
+      "id": "topic_system_redesign"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Rebranding",
+      "evidence": [
+        "msg_9c01bdc70f50"
+      ],
+      "id": "topic_rebranding"
+    },
+    {
+      "node_type": "Project",
+      "name": "clienta <> consultingco",
+      "project_type": "Other",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "Updated proposal based on feedback, missing pricing for the SEO phase.",
+      "phase": "Scoping",
+      "phase_reasoning": "Email mentions updating proposal based on feedback, indicating requirements gathering and adjustments to scope.",
+      "evidence": [
+        "msg_5529bbec8a7f"
+      ],
+      "id": "project_029"
+    },
+    {
+      "node_type": "Topic",
+      "name": "SEO phase",
+      "evidence": [
+        "msg_5529bbec8a7f"
+      ],
+      "id": "topic_seo_phase"
+    },
+    {
+      "node_type": "Project",
+      "name": "Partner Platform <> ConsultingCo",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "I attached the payment processing proposal.",
+      "phase": "Scoping",
+      "phase_reasoning": "The email involves sending a proposal, indicating the project is in the scoping or initial planning phase.",
+      "evidence": [
+        "msg_496b44a3c9b4"
+      ],
+      "id": "project_030"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Processing Proposal",
+      "evidence": [
+        "msg_496b44a3c9b4"
+      ],
+      "id": "topic_payment_processing_proposal"
+    },
+    {
+      "node_type": "Project",
+      "name": "partnercompany <> consultingco",
+      "project_type": "Other",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "Scoping",
+      "phase_reasoning": "The email indicates preparatory actions, suggesting the project is in the scoping phase.",
+      "evidence": [
+        "msg_b41254d319b7"
+      ],
+      "id": "project_031"
+    },
+    {
+      "node_type": "Project",
+      "name": "Project Alpha",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "Include streamlined transaction workflows for successful payment processing examples.",
+      "phase": "Execution",
+      "phase_reasoning": "The email discusses inclusion of content, suggesting active development or refinement of project components.",
+      "evidence": [
+        "msg_f0442e73a732"
+      ],
+      "id": "project_alpha"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Processing",
+      "evidence": [
+        "msg_f0442e73a732"
+      ],
+      "id": "topic_payment_processing"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Transaction Workflows",
+      "evidence": [
+        "msg_f0442e73a732"
+      ],
+      "id": "topic_transaction_workflows"
+    },
+    {
+      "node_type": "Project",
+      "name": "potential collaboration",
+      "project_type": "Other",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "Scoping",
+      "phase_reasoning": "The email content suggests initial excitement and intent to discuss further, indicative of the scoping phase.",
+      "evidence": [
+        "msg_07019ef385be"
+      ],
+      "id": "project_034"
+    },
+    {
+      "node_type": "Project",
+      "name": "Project Branding Final (Keynote)",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "Delivery",
+      "phase_reasoning": "The email inquires about a longer version of something, suggesting review or final adjustments rather than initial planning or active development.",
+      "evidence": [
+        "msg_aa19c04e04af"
+      ],
+      "id": "project_039"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo | Rebranding | Final",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-10-06",
+        "end": "2022-10-07",
+        "evidence": [
+          "msg_a1c61751c78b",
+          "msg_c49b928f701b"
+        ]
+      },
+      "scope": "The project involves rebranding efforts for StartupCo, including the creation and finalization of presentation materials and financial reporting.",
+      "phase": "Delivery",
+      "phase_reasoning": "Emails indicate final reviews, corrections, and updates to deliverables rather than active development or initial scoping.",
+      "evidence": [
+        "msg_a1c61751c78b",
+        "msg_02d6bb952dfb",
+        "msg_3c31a9f87e9d",
+        "msg_c49b928f701b"
+      ],
+      "id": "project_040"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Typos in Presentation Slides",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "id": "topic_typos_in_presentation_slides"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Report Update",
+      "evidence": [
+        "msg_3c31a9f87e9d"
+      ],
+      "id": "topic_financial_report_update"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Typos found in presentation slides.",
+      "category": "Communication",
+      "raised_date": "2022-10-07",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "id": "project_040_ch_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Correction of typos in specified slides.",
+      "resolved_date": "2022-10-07",
+      "methodology": "Proofreading and editing",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "id": "project_040_res_001"
+    },
+    {
+      "node_type": "Project",
+      "name": "[Company Name] | New Branding Materials | Final",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-10-07",
+        "end": "2022-10-07",
+        "evidence": [
+          "msg_f1428827d3b8"
+        ]
+      },
+      "scope": "Updated branding guidelines PDF provided",
+      "phase": "Delivery",
+      "phase_reasoning": "Email indicates final deliverable has been provided",
+      "evidence": [
+        "msg_f1428827d3b8"
+      ],
+      "id": "project_041"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Brand Guidelines",
+      "evidence": [
+        "msg_f1428827d3b8"
+      ],
+      "id": "topic_brand_guidelines"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo | Project Update | Final",
+      "project_type": "Other",
+      "timeline": {},
+      "scope": "Hi again, I am uploading the presentation materials; it will be uploaded to the shared drive. Please revise the pdf I sent before and let us know if there are any changes we need to make.",
+      "phase": "Delivery",
+      "phase_reasoning": "The email mentions uploading presentation materials and revising a previously sent PDF, indicating final deliverables are being prepared or reviewed.",
+      "evidence": [
+        "msg_68d8e0845ea4"
+      ],
+      "id": "project_042"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo Manifesto for Brand Identity Presentation",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-10-04",
+        "end": "",
+        "evidence": [
+          "msg_9721c5ad6514"
+        ]
+      },
+      "scope": "We're here to process your transactions seamlessly. We're here to facilitate payments that flow. We're here to help you grow.",
+      "phase": "Scoping",
+      "phase_reasoning": "Email contains initial ideas and concepts for feedback, indicating early scoping phase.",
+      "evidence": [
+        "msg_9721c5ad6514"
+      ],
+      "id": "project_043"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Growth Trend",
+      "evidence": [
+        "msg_9721c5ad6514"
+      ],
+      "id": "topic_financial_growth_trend"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Transaction Processing",
+      "evidence": [
+        "msg_9721c5ad6514"
+      ],
+      "id": "topic_transaction_processing"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo Positioning and Essence",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-10-04",
+        "end": "2022-10-05",
+        "evidence": [
+          "msg_f5d5b3203467",
+          "msg_1a2099249d33"
+        ]
+      },
+      "scope": "Revise brand positioning and essence for StartupCo based on client feedback, focusing on streamlining financial operations and optimizing payment workflows.",
+      "phase": "Challenge Resolution",
+      "phase_reasoning": "Emails indicate ongoing discussions to resolve issues related to project scope and client needs rather than initial scoping or final delivery.",
+      "evidence": [
+        "msg_f5d5b3203467",
+        "msg_1f76ebd53c5e",
+        "msg_1a6ab75b5b08",
+        "msg_2e1e9ea99b20",
+        "msg_8479b7b72363",
+        "msg_5a11b93b3197",
+        "msg_1a2099249d33"
+      ],
+      "id": "project_045"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Brand Positioning",
+      "evidence": [
+        "msg_f5d5b3203467",
+        "msg_1f76ebd53c5e"
+      ],
+      "id": "topic_brand_positioning"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Brand Essence",
+      "evidence": [
+        "msg_f5d5b3203467",
+        "msg_1f76ebd53c5e",
+        "msg_1a6ab75b5b08"
+      ],
+      "id": "topic_brand_essence"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Workflow Automation",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "id": "topic_financial_workflow_automation"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Client feedback indicates that none of the proposed positioning and essence fully aligns with their needs for transaction scaling.",
+      "category": "Scope",
+      "raised_date": "2022-10-05",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "id": "project_045_ch_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Focus on financial workflow automation as per client's request to better align with their needs.",
+      "resolved_date": "2022-10-05",
+      "methodology": "Adjusting project scope and deliverables",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "id": "project_045_res_001"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo-Product Demo",
+      "project_type": "Technology/Engineering",
+      "timeline": {
+        "start": "2022-09-21",
+        "end": "2022-10-04",
+        "evidence": [
+          "msg_3ab848a61d12",
+          "msg_92b97e2f3afa"
+        ]
+      },
+      "scope": "Provide a demo and screenshots for StartupCo payment platform, including a financial data review session.",
+      "phase": "Delivery",
+      "phase_reasoning": "Emails indicate final deliverables being shared, such as demo links and screenshots, rather than active development or scoping discussions.",
+      "evidence": [
+        "msg_3ab848a61d12",
+        "msg_047c2bbd4e5a",
+        "msg_dea6c06303f2",
+        "msg_a19b4cd93f78",
+        "msg_92b97e2f3afa"
+      ],
+      "id": "project_047"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Data Review",
+      "evidence": [
+        "msg_3ab848a61d12"
+      ],
+      "id": "topic_financial_data_review"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Platform Demo",
+      "evidence": [
+        "msg_92b97e2f3afa"
+      ],
+      "id": "topic_payment_platform_demo"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Need for a new link to access project materials.",
+      "category": "Communication",
+      "raised_date": "2022-10-01",
+      "evidence": [
+        "msg_dea6c06303f2"
+      ],
+      "id": "project_047_ch_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Provided a new link for accessing the required materials.",
+      "resolved_date": "2022-10-03",
+      "methodology": "Re-issuing access links",
+      "evidence": [
+        "msg_a19b4cd93f78"
+      ],
+      "id": "project_047_res_001"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo Overall Runsheet",
+      "project_type": "Financial Systems",
+      "timeline": {
+        "start": "2022-09-07",
+        "end": "2022-09-08",
+        "evidence": [
+          "msg_05017eac1ef7",
+          "msg_76728aac56da"
+        ]
+      },
+      "scope": "Workshop and analysis sessions focused on defining target market, analyzing B2B financial workflows, conceptualizing payment automation, assessing financial efficiency value propositions, conducting competitive analysis for invoice management features, and focusing brand messaging on transaction speed and reliability.",
+      "phase": "Delivery",
+      "phase_reasoning": "The emails indicate a wrap-up of activities with expressions of gratitude and good luck, suggesting the project is in the delivery or conclusion phase.",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "project_048"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Target market definition for payment platform",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_target_market_definition_for_payment_platform"
+    },
+    {
+      "node_type": "Topic",
+      "name": "B2B financial workflow analysis",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_b2b_financial_workflow_analysis"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Automation Concept Definition",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_payment_automation_concept_definition"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Efficiency Value Proposition Assessment",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_financial_efficiency_value_proposition_assessment"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Competitive Analysis for Invoice Management Features",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_competitive_analysis_for_invoice_management_features"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Brand messaging focusing on Transaction Speed and Reliability",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "id": "topic_brand_messaging_focusing_on_transaction_speed_and_reliability"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo Brand Strategy Workshop",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-09-02",
+        "end": "2022-09-22",
+        "evidence": [
+          "msg_c5639198c44b",
+          "msg_a011e1837482"
+        ]
+      },
+      "scope": "Developing a brand strategy and operational principles for StartupCo, including payment platform integration and streamlining financial processes.",
+      "phase": "Execution",
+      "phase_reasoning": "Emails indicate active work on the project, including progress updates and discussions on deliverables and integration, rather than initial scoping or final delivery.",
+      "evidence": [
+        "msg_c5639198c44b",
+        "msg_9ddea83e3714",
+        "msg_bf8d5a560931",
+        "msg_aaab675af6bf",
+        "msg_aa81a5769347",
+        "msg_f261aae50723",
+        "msg_774f118a9e0f",
+        "msg_2cd83ca80c8a",
+        "msg_512d02c6d59a",
+        "msg_e5c2c69529a6",
+        "msg_4084aa4b8361",
+        "msg_4ed24695b205",
+        "msg_7377309ebed4",
+        "msg_e2b9c07ec0b8",
+        "msg_a011e1837482"
+      ],
+      "id": "project_049"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Brand Strategy",
+      "evidence": [
+        "msg_9ddea83e3714",
+        "msg_bf8d5a560931"
+      ],
+      "id": "topic_brand_strategy"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Operational Principles for FinTech Solutions",
+      "evidence": [
+        "msg_e2b9c07ec0b8"
+      ],
+      "id": "topic_operational_principles_for_fintech_solutions"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Platform Integration",
+      "evidence": [
+        "msg_774f118a9e0f",
+        "msg_2cd83ca80c8a",
+        "msg_512d02c6d59a",
+        "msg_e5c2c69529a6"
+      ],
+      "id": "topic_payment_platform_integration"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Delay in receiving the deliverables, specifically the branding guide.",
+      "category": "Timeline",
+      "raised_date": "2022-09-09",
+      "evidence": [
+        "msg_bf8d5a560931"
+      ],
+      "id": "project_049_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Miscommunication about payment integration timeline.",
+      "category": "Communication",
+      "raised_date": "2022-09-09",
+      "evidence": [
+        "msg_f261aae50723"
+      ],
+      "id": "project_049_ch_002"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "ConsultingCo committed to investigating the delay and expediting the implementation.",
+      "resolved_date": "2022-09-09",
+      "methodology": "Investigation and expedited process",
+      "evidence": [
+        "msg_bf8d5a560931",
+        "msg_aa81a5769347"
+      ],
+      "id": "project_049_res_001"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Clarification provided on the payment integration timeline, aligning expectations.",
+      "resolved_date": "2022-09-09",
+      "methodology": "Clarification and communication",
+      "evidence": [
+        "msg_f261aae50723"
+      ],
+      "id": "project_049_res_002"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo.com Brand Strategy Workshop",
+      "project_type": "Strategy Consulting",
+      "timeline": {
+        "start": "2022-09-03",
+        "end": "2022-09-07",
+        "evidence": [
+          "msg_f7c1c5beb237"
+        ]
+      },
+      "scope": "Brand Strategy workshop scheduled for September 7th, including agenda and detailed overview of topics covering revenue models, KPIs, growth metrics, financial operations optimization, competitive analysis, and client profiling.",
+      "phase": "Scoping",
+      "phase_reasoning": "Email includes preparation and questions ahead of the workshop, indicating the project is in the scoping phase.",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "id": "project_050"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Revenue Model",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "id": "topic_revenue_model"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Key Performance Indicators (KPIs)",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "id": "topic_key_performance_indicators_(kpis)"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Growth Metrics",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "id": "topic_growth_metrics"
+    },
+    {
+      "node_type": "Project",
+      "name": "startupco project meeting",
+      "project_type": "Other",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "Scoping",
+      "phase_reasoning": "The email indicates a preparatory action ('Will discuss internally and get back to you.') rather than active project work or resolution of issues.",
+      "evidence": [
+        "msg_f027a136b8e3"
+      ],
+      "id": "project_052"
+    },
+    {
+      "node_type": "Project",
+      "name": "StartupCo re-Branding Project",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "2022-09-01",
+        "end": "",
+        "evidence": [
+          "msg_fd7cd08e9f6e"
+        ]
+      },
+      "scope": "",
+      "phase": "Challenge Resolution",
+      "phase_reasoning": "Emails focus on discussing and resolving a payment issue rather than discussing new work or final deliverables",
+      "evidence": [
+        "msg_fd7cd08e9f6e",
+        "msg_7a9ae3130d5a"
+      ],
+      "id": "project_055"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "$10K payment transaction failed",
+      "category": "Technical",
+      "raised_date": "2022-09-01",
+      "evidence": [
+        "msg_fd7cd08e9f6e"
+      ],
+      "id": "project_055_ch_001"
+    },
+    {
+      "node_type": "Project",
+      "name": "startupco branding project",
+      "project_type": "Design/Branding",
+      "timeline": {
+        "start": "",
+        "end": "",
+        "evidence": []
+      },
+      "scope": "",
+      "phase": "",
+      "phase_reasoning": "",
+      "evidence": [
+        "msg_77a10923d33c"
+      ],
+      "id": "project_056"
+    },
+    {
+      "node_type": "Project",
+      "name": "Company Re-Branding Project",
+      "project_type": "Design/Branding",
+      "timeline": {},
+      "scope": "",
+      "phase": "Challenge Resolution",
+      "phase_reasoning": "Email discusses addressing a specific issue (a typo sent by Terry Palmer)",
+      "evidence": [
+        "msg_e617427f94a0"
+      ],
+      "id": "project_057"
+    },
+    {
+      "node_type": "Project",
+      "name": "Weekly BD Highlights",
+      "project_type": "Other",
+      "timeline": {
+        "start": "2022-08-05",
+        "end": "Not specified",
+        "evidence": [
+          "msg_76acdbc9312c",
+          "msg_092b176de65e",
+          "msg_4bc5fb022612"
+        ]
+      },
+      "scope": "Sharing weekly financial performance reports, managing payment processing implementations, and exploring client retention strategies.",
+      "phase": "Challenge Resolution",
+      "phase_reasoning": "Emails focus on discussing problems and potential solutions rather than active project execution or delivery.",
+      "evidence": [
+        "msg_76acdbc9312c",
+        "msg_092b176de65e",
+        "msg_4bc5fb022612"
+      ],
+      "id": "project_058"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Financial Performance Reporting",
+      "evidence": [
+        "msg_092b176de65e"
+      ],
+      "id": "topic_financial_performance_reporting"
+    },
+    {
+      "node_type": "Topic",
+      "name": "Payment Processing Implementations",
+      "evidence": [
+        "msg_092b176de65e"
+      ],
+      "id": "topic_payment_processing_implementations"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "July's financial performance was low, indicating a shortfall.",
+      "category": "Budget",
+      "raised_date": "2022-08-05",
+      "evidence": [
+        "msg_76acdbc9312c"
+      ],
+      "id": "project_058_ch_001"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Clients taking a long time to get out of Holiday Season mood, affecting project timelines.",
+      "category": "Timeline",
+      "raised_date": "2022-08-05",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "id": "project_058_ch_002"
+    },
+    {
+      "node_type": "Challenge",
+      "description": "Lost projects due to non-pitching for design and branding services, high prices, and slow timeframes.",
+      "category": "Scope",
+      "raised_date": "2022-08-05",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "id": "project_058_ch_003"
+    },
+    {
+      "node_type": "Resolution",
+      "description": "Design and strategy teams will have more capacity starting September to address the issue of slow timeframes.",
+      "resolved_date": "2022-08-05",
+      "methodology": "Increasing team capacity",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "id": "project_058_res_001"
+    }
+  ],
+  "links": [
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "source": "project_001",
+      "target": "topic_platform_access"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "source": "project_001",
+      "target": "topic_payment_gateway"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f4a5baaf709c"
+      ],
+      "source": "project_001",
+      "target": "topic_api_integration"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "source": "project_002",
+      "target": "topic_financial_reconciliation_tasks"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_fa2878c59438"
+      ],
+      "source": "project_002",
+      "target": "topic_hosting"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "source": "project_002",
+      "target": "project_002_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_c4f3ee015cae"
+      ],
+      "source": "project_002",
+      "target": "project_002_ch_002"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_555bc47690bb"
+      ],
+      "source": "project_006",
+      "target": "topic_testimonial_for_website"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_8aa044c8ad74"
+      ],
+      "source": "project_006",
+      "target": "topic_payment_processing_timeline"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_66f73ab77073"
+      ],
+      "source": "project_006",
+      "target": "topic_financial_operations_platform_feedback"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_fcd05ff0e63c"
+      ],
+      "source": "project_013",
+      "target": "topic_design_files_and_icons"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_7ace86850cc9"
+      ],
+      "source": "project_013",
+      "target": "topic_invoice_integration"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_3bd38d749025"
+      ],
+      "source": "project_013",
+      "target": "topic_payment_workflow_optimization"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "source": "project_013",
+      "target": "topic_system_icons"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_93b5f3bb266c"
+      ],
+      "source": "project_013",
+      "target": "topic_integration_modules"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_fcd05ff0e63c"
+      ],
+      "source": "project_013",
+      "target": "project_013_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "source": "project_013",
+      "target": "project_013_ch_002"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_b05d510f5538"
+      ],
+      "source": "project_013_ch_002",
+      "target": "project_013_res_002"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "source": "project_015",
+      "target": "topic_workflow_diagram_updates"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "source": "project_015",
+      "target": "topic_payment_methods_representation"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "source": "project_015",
+      "target": "topic_automated_reconciliation_highlight"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_0502c820bc6e"
+      ],
+      "source": "project_015",
+      "target": "topic_dynamic_transaction_flow"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_00a19f12f95d"
+      ],
+      "source": "project_015",
+      "target": "topic_financial_reporting_templates"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "source": "project_015",
+      "target": "topic_payment_processing_feature"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "source": "project_015",
+      "target": "topic_data_security"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "source": "project_015",
+      "target": "topic_user-friendly_payment_automation"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "source": "project_015",
+      "target": "project_015_ch_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_e179a930f045"
+      ],
+      "source": "project_015_ch_001",
+      "target": "project_015_res_001"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_26de3381f50c"
+      ],
+      "source": "project_018",
+      "target": "topic_invoice_automation_system"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_3ef393ff4a39"
+      ],
+      "source": "project_018",
+      "target": "topic_financial_efficiency_visualization"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_3ef393ff4a39"
+      ],
+      "source": "project_018",
+      "target": "project_018_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_0f634283c309"
+      ],
+      "source": "project_018",
+      "target": "project_018_ch_002"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_2d586dbef2f7"
+      ],
+      "source": "project_018_ch_001",
+      "target": "project_018_res_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_0f634283c309"
+      ],
+      "source": "project_018_ch_002",
+      "target": "project_018_res_002"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "source": "project_025",
+      "target": "topic_strategic_review_market_analysis"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "source": "project_025",
+      "target": "topic_financial_workflows_validation"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "source": "project_025",
+      "target": "topic_payment_workflow_implementation"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "source": "project_025",
+      "target": "topic_transaction_processing_parameters"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "source": "project_025",
+      "target": "topic_tiered_payment_processing_options"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_b36e216f2712"
+      ],
+      "source": "project_025",
+      "target": "project_025_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "source": "project_025",
+      "target": "project_025_ch_002"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_70a64460e49e",
+        "msg_e3fc40a5950b"
+      ],
+      "source": "project_025",
+      "target": "project_025_ch_003"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_bd258f4766ad"
+      ],
+      "source": "project_025_ch_001",
+      "target": "project_025_res_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_481280f1cccf"
+      ],
+      "source": "project_025_ch_002",
+      "target": "project_025_res_002"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_1690659cc1ff"
+      ],
+      "source": "project_025_ch_003",
+      "target": "project_025_res_003"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "source": "project_026",
+      "target": "topic_platform_branding"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "source": "project_026",
+      "target": "topic_style_guide_with_logo"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "source": "project_026",
+      "target": "topic_platform_assets"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_346af3290df7"
+      ],
+      "source": "project_026",
+      "target": "topic_complete_platform_guidelines"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_9c01bdc70f50"
+      ],
+      "source": "project_028",
+      "target": "topic_system_redesign"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_9c01bdc70f50"
+      ],
+      "source": "project_028",
+      "target": "topic_rebranding"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_5529bbec8a7f"
+      ],
+      "source": "project_029",
+      "target": "topic_seo_phase"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_496b44a3c9b4"
+      ],
+      "source": "project_030",
+      "target": "topic_payment_processing_proposal"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f0442e73a732"
+      ],
+      "source": "project_alpha",
+      "target": "topic_payment_processing"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f0442e73a732"
+      ],
+      "source": "project_alpha",
+      "target": "topic_transaction_workflows"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "source": "project_040",
+      "target": "topic_typos_in_presentation_slides"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_3c31a9f87e9d"
+      ],
+      "source": "project_040",
+      "target": "topic_financial_report_update"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "source": "project_040",
+      "target": "project_040_ch_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_02d6bb952dfb"
+      ],
+      "source": "project_040_ch_001",
+      "target": "project_040_res_001"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f1428827d3b8"
+      ],
+      "source": "project_041",
+      "target": "topic_brand_guidelines"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_9721c5ad6514"
+      ],
+      "source": "project_043",
+      "target": "topic_financial_growth_trend"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_9721c5ad6514"
+      ],
+      "source": "project_043",
+      "target": "topic_transaction_processing"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f5d5b3203467",
+        "msg_1f76ebd53c5e"
+      ],
+      "source": "project_045",
+      "target": "topic_brand_positioning"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f5d5b3203467",
+        "msg_1f76ebd53c5e",
+        "msg_1a6ab75b5b08"
+      ],
+      "source": "project_045",
+      "target": "topic_brand_essence"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "source": "project_045",
+      "target": "topic_financial_workflow_automation"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "source": "project_045",
+      "target": "project_045_ch_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_8479b7b72363"
+      ],
+      "source": "project_045_ch_001",
+      "target": "project_045_res_001"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_3ab848a61d12"
+      ],
+      "source": "project_047",
+      "target": "topic_financial_data_review"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_92b97e2f3afa"
+      ],
+      "source": "project_047",
+      "target": "topic_payment_platform_demo"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_dea6c06303f2"
+      ],
+      "source": "project_047",
+      "target": "project_047_ch_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_a19b4cd93f78"
+      ],
+      "source": "project_047_ch_001",
+      "target": "project_047_res_001"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_target_market_definition_for_payment_platform"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_b2b_financial_workflow_analysis"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_payment_automation_concept_definition"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_financial_efficiency_value_proposition_assessment"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_competitive_analysis_for_invoice_management_features"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_05017eac1ef7"
+      ],
+      "source": "project_048",
+      "target": "topic_brand_messaging_focusing_on_transaction_speed_and_reliability"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_9ddea83e3714",
+        "msg_bf8d5a560931"
+      ],
+      "source": "project_049",
+      "target": "topic_brand_strategy"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_e2b9c07ec0b8"
+      ],
+      "source": "project_049",
+      "target": "topic_operational_principles_for_fintech_solutions"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_774f118a9e0f",
+        "msg_2cd83ca80c8a",
+        "msg_512d02c6d59a",
+        "msg_e5c2c69529a6"
+      ],
+      "source": "project_049",
+      "target": "topic_payment_platform_integration"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_bf8d5a560931"
+      ],
+      "source": "project_049",
+      "target": "project_049_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_f261aae50723"
+      ],
+      "source": "project_049",
+      "target": "project_049_ch_002"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_bf8d5a560931",
+        "msg_aa81a5769347"
+      ],
+      "source": "project_049_ch_001",
+      "target": "project_049_res_001"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_f261aae50723"
+      ],
+      "source": "project_049_ch_002",
+      "target": "project_049_res_002"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "source": "project_050",
+      "target": "topic_revenue_model"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "source": "project_050",
+      "target": "topic_key_performance_indicators_(kpis)"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_f7c1c5beb237"
+      ],
+      "source": "project_050",
+      "target": "topic_growth_metrics"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_fd7cd08e9f6e"
+      ],
+      "source": "project_055",
+      "target": "project_055_ch_001"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_092b176de65e"
+      ],
+      "source": "project_058",
+      "target": "topic_financial_performance_reporting"
+    },
+    {
+      "edge_type": "HAS_TOPIC",
+      "evidence": [
+        "msg_092b176de65e"
+      ],
+      "source": "project_058",
+      "target": "topic_payment_processing_implementations"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_76acdbc9312c"
+      ],
+      "source": "project_058",
+      "target": "project_058_ch_001"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "source": "project_058",
+      "target": "project_058_ch_002"
+    },
+    {
+      "edge_type": "FACED_CHALLENGE",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "source": "project_058",
+      "target": "project_058_ch_003"
+    },
+    {
+      "edge_type": "RESOLVED_BY",
+      "evidence": [
+        "msg_4bc5fb022612"
+      ],
+      "source": "project_058_ch_003",
+      "target": "project_058_res_001"
+    }
+  ]
+}

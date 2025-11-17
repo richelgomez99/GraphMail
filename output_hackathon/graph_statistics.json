@@ -1,0 +1,18 @@
+{
+  "total_nodes": 101,
+  "total_edges": 1275,
+  "node_types": {
+    "Person": 24,
+    "Organization": 2,
+    "Topic": 55,
+    "Event": 20
+  },
+  "edge_types": {
+    "WORKS_AT": 21,
+    "COMMUNICATED": 515,
+    "DISCUSSED": 297,
+    "MET_AT": 337,
+    "ATTENDED": 105
+  },
+  "temporal_edges": 1254
+}

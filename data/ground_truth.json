@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "project_001": {
+      "project_name": "StartupCo Brand Book",
+      "project_type": "Design/Branding",
+      "phase": "Delivery",
+      "topics": [
+        "API Integration",
+        "Brand Guidelines",
+        "Social Media Templates"
+      ],
+      "challenges": [
+        "API key security concern"
+      ],
+      "resolutions": [
+        "Use hosted solution instead"
+      ]
+    }
+  }
+}

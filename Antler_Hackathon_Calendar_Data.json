@@ -1,0 +1,404 @@
+{
+  "total_events": 20,
+  "events_with_startupco_in_title": 13,
+  "events_with_startupco_participants": 14,
+  "events": [
+    {
+      "uid": "49vafagu3t1em12h2ajtdg3b3p@calendar.example",
+      "summary": "StartupCo Workshop Discussion",
+      "start": "20220905T233000",
+      "end": "20220906T003000",
+      "location": "",
+      "description": "──────────\\n\\nOakley Brooks is inviting you to a scheduled Zoom meeting.\\n\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/88091034046?pwd=K2JpMHMwWGthaXJ4SHVWMS8xaTZhUT09\\n\\nMeeting ID: 880 9103 4046\\nPasscode: 452058\\nOne tap mobile\\n+13126266799\\,\\,88091034046#\\,\\,\\,\\,*452058# US (Chicago)\\n+13462487799\\,\\,88091034046#\\,\\,\\,\\,*452058# US (Houston)\\n\\nDial by your location\\n        +1 312 626 6799 US (Chicago)\\n        +1 346 248 7799 US (Houston)\\n        +1 669 900 6833 US (San Jose)\\n        +1 929 205 6099 US (New York)\\n        +1 253 215 8782 US (Tacoma)\\n        +1 301 715 8592 US (Washington DC)\\nMeeting ID: 880 9103 4046\\nPasscode: 452058\\nFind your local number: https://videoconf.example/u/k1LTGrm9c\\n\\n\\n──────────\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0736 PIN: 406899753#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:oakley.brooks@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "59gqfolof8r08efrmig7ok26nv@calendar.example",
+      "summary": "StartupCo Briefing Session",
+      "start": "20220914T164500",
+      "end": "20220914T174500",
+      "location": "",
+      "description": "──────────\\n\\nHayden Evans | ConsultingCo is inviting you to a scheduled Zoom meeting.\\n\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/93722092425?pwd=SlhzSFRkM21tRXR2SXI0YXRmL01PUT09\\n\\nMeeting ID: 937 2209 2425\\nPasscode: vjCx1m\\n\\n\\n──────────\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0828 PIN: 589479164#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:hayden.evans@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:gray.clark@ConsultingCo.com",
+        "mailto:skylar.stone@ConsultingCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:shimy@ConsultingCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:bailey.brooks@ConsultingCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:hesham.a@ConsultingCo.com",
+        "mailto:lennon.quinn@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:jules.gray@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "5mvhgrng9q1p0kmvidsipnuid1@calendar.example",
+      "summary": "ConsultingCo and StartupCo's Call",
+      "start": "20220826T183000",
+      "end": "20220826T193000",
+      "location": "https://videoconf.example/j/99109940777?pwd=UzFSZDBPUHYxMG9BRXVKdXMvRklpUT09",
+      "description": "Hollis Murray  is inviting you to a scheduled Zoom meeting.\\nTopic: Hollis Murray 's Zoom Meeting\\nTime: Aug 26\\, 2021 03:00 PM City A\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/99109940777?pwd=UzFSZDBPUHYxMG9BRXVKdXMvRklpUT09\\nMeeting ID: 991 0994 0777\\nPasscode: YNX0Zq\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0629 PIN: 709133606#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:hollis.murray@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:hollis.murray@ConsultingCo.com",
+        "mailto:jamie.adams@StartupCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "65qv4s9qtsiusp86tro26902qi@calendar.example",
+      "summary": "ConsultingCo | StartupCo- Brand Identity and Strategy Presentation",
+      "start": "20221007T203000",
+      "end": "20221007T223000",
+      "location": "",
+      "description": "Brand Development Team is inviting you to a scheduled Zoom meeting.\\nTopic: Brand Development Team's Personal Meeting Room\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/8406255344?pwd=QkRxZzJqMFVtS1RmZm1CSzNGaUVvdz09\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nOne tap mobile\\n+16465588656\\,\\,8406255344#\\,\\,\\,\\,*12345# US (New York)\\n+17207072699\\,\\,8406255344#\\,\\,\\,\\,*12345# US (Denver)\\nDial by your location\\n        +1 646 558 8656 US (New York)\\n        +1 720 707 2699 US (Denver)\\n        +1 253 215 8782 US (Tacoma)\\n        +1 301 715 8592 US (Washington DC)\\n        +1 312 626 6799 US (Chicago)\\n        +1 346 248 7799 US (Houston)\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nFind your local number: https://videoconf.example/u/kexv6AwHmj\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0754 PIN: 903160642#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:kelly.underwood@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:parker.jackson@ConsultingCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:katy@StartupCo.com",
+        "mailto:mariel@StartupCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "75ncmc1enc1s35n919a1j16t2s@calendar.example",
+      "summary": "StartupCo Brand Strategy",
+      "start": "20221110T223000",
+      "end": "20221110T233000",
+      "location": "https://videoconf.example/j/89313625798?pwd=NURJWURmeUF5ZkxHMXpvdVFVT0JXZz09",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0639 PIN: 408584856#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:hayden.moore@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:sam.stone@StartupCo.com",
+        "mailto:katy@StartupCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:mariel@StartupCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "14fp4fbk8dmda7s2qi31qjni6o@calendar.example",
+      "summary": "StartupCo Checkpoint",
+      "start": "20220930T183000",
+      "end": "20220930T193000",
+      "location": "https://videoconf.example/j/87245700867?pwd=cStaVFJMMHFTYit5QSt1NEpLek9FZz09",
+      "description": "──────────\\n\\nOakley Brooks is inviting you to a scheduled Zoom meeting.\\n\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/87245700867?pwd=cStaVFJMMHFTYit5QSt1NEpLek9FZz09\\n\\nMeeting ID: 872 4570 0867\\nPasscode: 323768\\nOne tap mobile\\n+13462487799\\,\\,87245700867#\\,\\,\\,\\,*323768# US (Houston)\\n+16699006833\\,\\,87245700867#\\,\\,\\,\\,*323768# US (San Jose)\\n\\nDial by your location\\n        +1 346 248 7799 US (Houston)\\n        +1 669 900 6833 US (San Jose)\\n        +1 929 205 6099 US (New York)\\n        +1 253 215 8782 US (Tacoma)\\n        +1 301 715 8592 US (Washington DC)\\n        +1 312 626 6799 US (Chicago)\\nMeeting ID: 872 4570 0867\\nPasscode: 323768\\nFind your local number: https://videoconf.example/u/kbeD0mKGDj\\n\\n\\n\\n──────────\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0344 PIN: 567041342#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:oakley.brooks@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "1ifbrjr4tc4fd7voq2uh7v4i32@calendar.example",
+      "summary": "ConsultingCo x StartupCo Brand Strategy Workshop ",
+      "start": "20220907T203000",
+      "end": "20220908T003000",
+      "location": "",
+      "description": "<a href=\"https://videoconf.example/j/7630141257?pwd=NWJGU3lTTHR3TWk0TmlrT1NwRnQ1Zz09\">https://videoconf.example/j/7630141257?<wbr>pwd=<wbr>NWJGU3lTTHR3TWk0TmlrT1NwRnQ1Zz<wbr>09</a>&nbsp\\;\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0467 PIN: 348079986#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:kelly.underwood@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:mariel@StartupCo.com",
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:katy@StartupCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "1u893qmdmif8gmfcqusuuulhd5@calendar.example",
+      "summary": "StartupCo Brand Identity Checkpoint",
+      "start": "20220929T183000",
+      "end": "20220929T190000",
+      "location": "",
+      "description": "Avery Young  is inviting you to a scheduled Zoom meeting.\\nTopic: Avery Young 's Personal Meeting Room\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/8784029171?pwd=czZKa2hBV05ISHU4RmdMWG5uR080dz09\\nMeeting ID: 878 402 9171\\nPasscode: r6qMmE\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0898 PIN: 217616951#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:kelly.underwood@ConsultingCo.com",
+      "attendees": [
+        "mailto:arden.wilson@ConsultingCo.com",
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:gray.clark@ConsultingCo.com",
+        "mailto:skylar.stone@ConsultingCo.com",
+        "mailto:hicham@ConsultingCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:parker.jackson@ConsultingCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com",
+        "mailto:jules.gray@ConsultingCo.com",
+        "mailto:lennon.quinn@ConsultingCo.com",
+        "mailto:amina@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "29jrr6scmler69q5d20e6uaiit@calendar.example",
+      "summary": "ConsultingCo | StartupCo- Brand Identity Presentation",
+      "start": "20221019T203000",
+      "end": "20221019T220000",
+      "location": "",
+      "description": "Brand Development Team is inviting you to a scheduled Zoom meeting.\\nTopic: Brand Development Team's Personal Meeting Room\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/8406255344?pwd=QkRxZzJqMFVtS1RmZm1CSzNGaUVvdz09\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nOne tap mobile\\n+16465588656\\,\\,8406255344#\\,\\,\\,\\,*12345# US (New York)\\n+17207072699\\,\\,8406255344#\\,\\,\\,\\,*12345# US (Denver)\\nDial by your location\\n        +1 646 558 8656 US (New York)\\n        +1 720 707 2699 US (Denver)\\n        +1 253 215 8782 US (Tacoma)\\n        +1 301 715 8592 US (Washington DC)\\n        +1 312 626 6799 US (Chicago)\\n        +1 346 248 7799 US (Houston)\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nFind your local number: https://videoconf.example/u/kexv6AwHmj\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 1251 PIN: 820985965#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:kelly.underwood@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:arden.wilson@ConsultingCo.com",
+        "mailto:katy@StartupCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:mariel@StartupCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:lennon.quinn@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com",
+        "mailto:morgan.allen@StartupCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "2gpjdooaatldeme02pnbv3so4g@calendar.example",
+      "summary": "ConsultingCo | StartupCo - Brand Identity Presentation",
+      "start": "20221102T203000",
+      "end": "20221102T220000",
+      "location": "",
+      "description": "Brand Development Team is inviting you to a scheduled Zoom meeting.\\nTopic: Brand Development Team's Personal Meeting Room\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/8406255344?pwd=QkRxZzJqMFVtS1RmZm1CSzNGaUVvdz09\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nOne tap mobile\\n+16465588656\\,\\,8406255344#\\,\\,\\,\\,*12345# US (New York)\\n+17207072699\\,\\,8406255344#\\,\\,\\,\\,*12345# US (Denver)\\nDial by your location\\n        +1 646 558 8656 US (New York)\\n        +1 720 707 2699 US (Denver)\\n        +1 253 215 8782 US (Tacoma)\\n        +1 301 715 8592 US (Washington DC)\\n        +1 312 626 6799 US (Chicago)\\n        +1 346 248 7799 US (Houston)\\nMeeting ID: 840 625 5344\\nPasscode: 12345\\nFind your local number: https://videoconf.example/u/kexv6AwHmj\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0973 PIN: 937566775#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:kelly.underwood@ConsultingCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:arden.wilson@ConsultingCo.com",
+        "mailto:katy@StartupCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:indigo.walker@ConsultingCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:mariel@StartupCo.com",
+        "mailto:lennon.quinn@ConsultingCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:oakley.brooks@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com",
+        "mailto:sam.stone@StartupCo.com",
+        "mailto:morgan.allen@StartupCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "38rl28ajcqe2uh3oh7ln6tp6gb@calendar.example",
+      "summary": "ConsultingCo // StartupCo demo",
+      "start": "20220920T233000",
+      "end": "20220921T001500",
+      "location": "",
+      "description": "\\n\\n-~-~-~-~-~-\\n    \\n🔮  Participant info magically brought to you by Warmly https://profile.example.com:    \\n\\n👤 arden.wilson@ConsultingCo.com            \\n💼 ConsultingCo https://ConsultingCo.com                \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user Taylor Parker Company\\, Partner\\, COO            \\n💼 ConsultingCo https://ConsultingCo.com                \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user Jamie Adams\\, Co-founder\\, CEO            \\n💼 StartupCo StartupCo.com    \\n🗺 Living in New York    \\nConnect at: https://linkedin.com/in/professional        \\nWarmly Member since Cameron Carter 2021\\n\\n👤 Peyton Dixon\\, Director of Strategy\\, Head of Consultancy Practice            \\n💼 ConsultingCo https://ConsultingCo.com    \\n🗺 Living in United Arab Emirates    \\nConnect at: https://linkedin.com/in/professional        \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user kealan@StartupCo.com            \\n💼 StartupCo https://StartupCo.com                \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user Terry Garcia\\, Executive Creative Director            \\n💼 ConsultingCo https://ConsultingCo.com        \\nConnect at: https://linkedin.com/in/professional        \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user nour@ConsultingCo.com            \\n💼 ConsultingCo https://ConsultingCo.com                \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user Terry Palmer\\, Chief Executive Officer            \\n💼 ConsultingCo https://ConsultingCo.com    \\n🗺 Living in Region B    \\nConnect at: https://linkedin.com/in/professional        \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user reem@ConsultingCo.com            \\n💼 ConsultingCo https://ConsultingCo.com                \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user        \\n\\n-~-~-~-~-~-\\n\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/81046189986?pwd=MzNXanZURXYzSTZya05DM0ZWd0E0dz09 (ID: 81046189986\\, passcode: juJBqFZw)\\n\\nJoin by phone\\n(US) +1 253-215-8782 (passcode: 47851478)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw3nQzPdbk2rgTd-vvqWamdR\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:elliott.evans@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:hayden.moore@ConsultingCo.com",
+        "mailto:kelly.underwood@ConsultingCo.com",
+        "mailto:terry.garcia@ConsultingCo.com",
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:hayden.evans@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "274sc8u5adko1vckok666pel80@calendar.example",
+      "summary": "Terry Palmer // Jamie Adams",
+      "start": "20230119T233000",
+      "end": "20230120T000000",
+      "location": "",
+      "description": "\\n\\n-~-~-~-~-~-\\n    \\n🔮  Calendar Signatures powered by Warmly https://profile.example.com/user    \\n\\n👤 Jamie Adams\\, Co-founder\\, CEO            \\n💼 StartupCo StartupCo.com    \\n🗺 Living in New York    \\nLinkedIn & more: https://profile.example.com/user        \\nWarmly Member since Cameron Carter 2021\\n\\n👤 Terry Palmer\\, Chief Executive Officer            \\n💼 ConsultingCo https://ConsultingCo.com    \\n🗺 Living in Region B    \\nLinkedIn & more: https://profile.example.com?c=5eSwKOQp5cUXgizNejKvkG            \\n    \\nHelp folks get to know you warmly! Update your profile at https://profile.example.com/user Zoom Meeting\\nhttps://videoconf.example/j/83545771295?pwd=dGl1bndTei93Vmpzd25sU1ZiQVBxQT09 (ID: 83545771295\\, passcode: 488941)\\n\\nJoin by phone\\n(US) +1 301-715-8592 (passcode: 488941)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw3RNlDOXdujvpUPz7U8D2Ge\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:jamie.adams@StartupCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "5u4m0m0ljllv6i91umrtcqhune@calendar.example",
+      "summary": "Terry Palmer x Jamie Adams",
+      "start": "20240607T204500",
+      "end": "20240607T211500",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/83042535309?pwd=UnRiSmNscFMrT2xkY0RLUWRqUXg3UT09 (ID: 83042535309\\, passcode: 655105)\\n\\nJoin by phone\\n(US) +1 312-626-6799 (passcode: 655105)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw3DM49t3wzB4jVA4d7TBOf2\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw0oxIcESLEw81JMWXWIk6UJ\" target=\"_blank\">https://videoconf.example/j/83042535309?pwd=UnRiSmNscFMrT2xkY0RLUWRqUXg3UT09</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "61a19nq5hlsi5859bo9eutue5c@calendar.example",
+      "summary": "StartupCo interactive brand identity discuss",
+      "start": "20240612T153000",
+      "end": "20240612T163000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 1066 PIN: 287649079#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.walker@ConsultingCo.com",
+      "attendees": [
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:jamie.walker@ConsultingCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "4kkm6rbv40mgpe1a0tqjidugbg@calendar.example",
+      "summary": "Terry Palmer x Jamie Adams",
+      "start": "20250706T163000",
+      "end": "20250706T170000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/87473014978?pwd=MWnKbnNGbtNgUSM6EzPkbLbw8ZfRie.1 (ID: 87473014978\\, passcode: 403464)\\n\\nJoin by phone\\n(US) +1 309-205-3325 (passcode: 403464)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw0FU1OzUZMdeE8Ai7c27v5W\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw3UJOmy5xlGGfpHev5yzxn3\" target=\"_blank\">https://videoconf.example/j/87473014978?pwd=MWnKbnNGbtNgUSM6EzPkbLbw8ZfRie.1</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "2jhu0dc06ds828onnk5bji9ail@calendar.example",
+      "summary": "Terry Palmer x Jamie Adams",
+      "start": "20250903T193000",
+      "end": "20250903T203000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/84400018046?pwd=o9F2UP5a5iXqAuBVMQJGOFboWuTUOY.1 (ID: 84400018046\\, passcode: 341075)\\n\\nJoin by phone\\n(US) +1 646-558-8656 (passcode: 341075)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw0aI95hPMGLWLMs51mdYdMv\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw1nzj2ztwRs6ax1dg5is0vo\" target=\"_blank\">https://videoconf.example/j/84400018046?pwd=o9F2UP5a5iXqAuBVMQJGOFboWuTUOY.1</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "6111slf6a27nblk116qt10kk3k@calendar.example",
+      "summary": "Terry Palmer x Naila x Jamie Adams",
+      "start": "20250923T190000",
+      "end": "20250923T200000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/88342204895?pwd=YoJe00vSahLtSaCjl5xcXHIaKCOk3r.1 (ID: 88342204895\\, passcode: 692754)\\n\\nJoin by phone\\n(US) +1 305-224-1968 (passcode: 692754)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw1jYjeCYuajAtau-iV8w0Ky\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw22GujVIY3PLqOMW_QpCOvr\" target=\"_blank\">https://videoconf.example/j/88342204895?pwd=YoJe00vSahLtSaCjl5xcXHIaKCOk3r.1</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com",
+        "mailto:faroukyn@PartnerOrg.org"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "1phcvf6fh1sppbi6voous0obhd@calendar.example",
+      "summary": "Terry Palmer x Jamie Adams",
+      "start": "20260111T213000",
+      "end": "20260111T223000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/81673078818?pwd=CSlbOkB6RoXL8JCqANpa26rMijF7xl.1 (ID: 81673078818\\, passcode: 761521)\\n\\nJoin by phone\\n(US) +1 301-715-8592 (passcode: 761521)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw3C_5qjUddMB0jxtEKvxcqX\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw1eN7WnqyqMIXjxy1QpfiKY\" target=\"_blank\">https://videoconf.example/j/81673078818?pwd=CSlbOkB6RoXL8JCqANpa26rMijF7xl.1</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    },
+    {
+      "uid": "3tu45t4uo3k94av831ggga749n@calendar.example",
+      "summary": "StartupCo Interactive Brand Manual",
+      "start": "20260310T150000",
+      "end": "20260310T153000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin with Harper Meet: https://meeting.example/room-abc-def\\nOr dial: (ZA) +27 10 823 0628 PIN: 828249386#\\nMore phone numbers: https://phone.example/dial\\n\\nLearn more about Meet at: https://support.example/help\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.walker@ConsultingCo.com",
+      "attendees": [
+        "mailto:taylor.parker@ConsultingCo.com",
+        "mailto:jamie.walker@ConsultingCo.com",
+        "mailto:arden.wilson@ConsultingCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": true,
+      "has_startupco_participant": false
+    },
+    {
+      "uid": "4008tm3offnd2mve2ribm3vmj4@calendar.example",
+      "summary": "Terry Palmer x Jamie Adams",
+      "start": "20260406T163000",
+      "end": "20260406T170000",
+      "location": "",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\\nJoin Zoom Meeting\\nhttps://videoconf.example/j/81031473610?pwd=Db0ERFQwm0D1EXpamKTaF1xPsyK7P9.1&jst=2 (ID: 81031473610\\, passcode: 708512)\\n\\nJoin by phone\\n(US) +1 309-205-3325 (passcode: 708512)\\n\\nJoining instructions: https://www.redirect.example/link&sa=D&source=calendar&usg=AOvVaw2Wo9jsU7b3-Kkg-VztBofh\\n\\nMeeting host: <a href=\"mailto:jamie.adams@StartupCo.com\" target=\"_blank\">jamie.adams@StartupCo.com</a><br /><br />Join Zoom Meeting: <br /><a href=\"https://www.redirect.example/link&amp\\;sa=D&amp\\;source=calendar&amp\\;usg=AOvVaw0yprPXtd3hJoWZzgWSRdKl\" target=\"_blank\">https://videoconf.example/j/81031473610?pwd=Db0ERFQwm0D1EXpamKTaF1xPsyK7P9.1&amp\\;jst=2</a>\\n\\nPlease do not edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+      "organizer": "mailto:jamie.adams@StartupCo.com",
+      "attendees": [
+        "mailto:jamie.adams@StartupCo.com",
+        "mailto:terry.palmer@ConsultingCo.com"
+      ],
+      "has_startupco_in_title": false,
+      "has_startupco_participant": true
+    }
+  ]
+}

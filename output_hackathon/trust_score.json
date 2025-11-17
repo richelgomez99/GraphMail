@@ -1,0 +1,10 @@
+{
+  "trust_score": 0.608,
+  "fact_traceability": 1.0,
+  "extraction_completeness": 0.231,
+  "phase_accuracy": 0.0,
+  "hallucination_rate": 0.0,
+  "hallucinations": [],
+  "total_facts": 220,
+  "traceable_facts": 220
+}

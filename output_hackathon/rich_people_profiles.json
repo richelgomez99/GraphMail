@@ -1,0 +1,874 @@
+{
+  "sage.harris@consultingco.com": {
+    "email": "sage.harris@consultingco.com",
+    "name": "Sage Harris",
+    "organization": "consultingco",
+    "messages_sent": 15,
+    "messages_received": 18,
+    "topics": [
+      "Re",
+      "Your opinion is important to us!",
+      "StartupCo Digital Assets - Next steps",
+      "RE"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_0": "Team Member",
+      "project_3": "Support/Observer",
+      "project_4": "Client Lead",
+      "project_6": "Team Member",
+      "project_7": "Client Lead",
+      "project_24": "Collaborator"
+    },
+    "evidence": [
+      "msg_-5189356685752271386",
+      "msg_9102048765980628826",
+      "msg_1463323286124383210",
+      "msg_3061928049436433890",
+      "msg_-574647566658254977",
+      "msg_-401547164762319709",
+      "msg_-8739905372211723076",
+      "msg_3606810757387047365",
+      "msg_-6441753599607214809",
+      "msg_-7721419650147328842",
+      "msg_385389788480689869",
+      "msg_4234622741039511112",
+      "msg_4048616308508284876",
+      "msg_2356522514685119830",
+      "msg_5903944403155293556"
+    ],
+    "first_contact": "Wed, 25 Mar 2026 17:00:08 +0530",
+    "last_contact": "Wed, 21 Sep 2022 20:42:23 +0530"
+  },
+  "jamie.adams@startupco.com": {
+    "email": "jamie.adams@startupco.com",
+    "name": "Jamie Adams",
+    "organization": "startupco",
+    "messages_sent": 69,
+    "messages_received": 112,
+    "topics": [
+      "Re",
+      "Fwd",
+      "Swag",
+      "Small favor",
+      "RE"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_0": "Collaborator",
+      "project_1": "Team Member",
+      "project_3": "Collaborator",
+      "project_7": "Team Member",
+      "project_9": "Collaborator",
+      "project_10": "Team Member",
+      "project_12": "Collaborator",
+      "project_13": "Collaborator",
+      "project_16": "Collaborator",
+      "project_17": "Collaborator",
+      "project_24": "Support/Observer",
+      "project_25": "Collaborator",
+      "project_26": "Collaborator"
+    },
+    "evidence": [
+      "msg_-693163819511416043",
+      "msg_4523498019029555541",
+      "msg_-561567022223950097",
+      "msg_-6503895433493250906",
+      "msg_-6180570778304267145",
+      "msg_5405050334789762816",
+      "msg_2801924388558363941",
+      "msg_-4676781000532376770",
+      "msg_-7051560089280825402",
+      "msg_781581642149256558",
+      "msg_-9143151668795869918",
+      "msg_3655374342651010569",
+      "msg_3354011130056884667",
+      "msg_8224360981047302415",
+      "msg_7095326577967427407",
+      "msg_-1467410119763664495",
+      "msg_339816461663166313",
+      "msg_2814097568406465585",
+      "msg_-6801404289669764302",
+      "msg_-1646101033577386182",
+      "msg_4253419820273309689",
+      "msg_1117190370565271636",
+      "msg_-5973661847308311730",
+      "msg_-4834384152914018158",
+      "msg_3260689853951278289",
+      "msg_-6471530932929108072",
+      "msg_387451336664707116",
+      "msg_-7902022661157224729",
+      "msg_-985152947678179113",
+      "msg_-7089744893544773921",
+      "msg_-9088953981108952560",
+      "msg_-1313784418950200972",
+      "msg_-1132123049293464227",
+      "msg_605634874900513989",
+      "msg_4274504436941505142",
+      "msg_2191172835492528513",
+      "msg_8259710847489359611",
+      "msg_-4899307442343175024",
+      "msg_2554668981735501460",
+      "msg_5556306630687543327",
+      "msg_-213303963792415263",
+      "msg_-7231996919954776538",
+      "msg_4021121900359799063",
+      "msg_2603281820102045811",
+      "msg_1421040406474816373",
+      "msg_8626074724382699391",
+      "msg_-7986990906666517601",
+      "msg_-882783359864979022",
+      "msg_-2311126623164220881",
+      "msg_-7875799144701505249",
+      "msg_7058065632938554629",
+      "msg_-4367069650853764372",
+      "msg_5713778973389075014",
+      "msg_8157589470892168958",
+      "msg_993909012174298934",
+      "msg_1721633043193389506",
+      "msg_-4348992796952804000",
+      "msg_-2321239242991299529",
+      "msg_8168634387583638949",
+      "msg_-6634808110164266137",
+      "msg_9093414336335195358",
+      "msg_7627299331152969793",
+      "msg_-7029312873838937363",
+      "msg_9139216126925555895",
+      "msg_-6655660036839787091",
+      "msg_-4178194897812633128",
+      "msg_3546062588888916099",
+      "msg_-8573512300101696602",
+      "msg_7832149040120417909"
+    ],
+    "first_contact": "Thu, 26 Mar 2026 17:38:59 +0000",
+    "last_contact": "Fri, 02 Sep 2022 04:37:06 +0000"
+  },
+  "terry.palmer@consultingco.com": {
+    "email": "terry.palmer@consultingco.com",
+    "name": "Terry Palmer",
+    "organization": "consultingco",
+    "messages_sent": 67,
+    "messages_received": 97,
+    "topics": [
+      "Re",
+      "Fwd"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_0": "Support/Observer",
+      "project_1": "Collaborator",
+      "project_3": "Collaborator",
+      "project_4": "Support/Observer",
+      "project_5": "Support/Observer",
+      "project_7": "Team Member",
+      "project_8": "Collaborator",
+      "project_10": "Collaborator",
+      "project_11": "Collaborator",
+      "project_12": "Support/Observer",
+      "project_13": "Support/Observer",
+      "project_15": "Collaborator",
+      "project_16": "Collaborator",
+      "project_17": "Collaborator",
+      "project_18": "Collaborator",
+      "project_19": "Collaborator",
+      "project_20": "Collaborator",
+      "project_21": "Collaborator",
+      "project_22": "Collaborator",
+      "project_23": "Collaborator",
+      "project_24": "Collaborator",
+      "project_25": "Collaborator",
+      "project_26": "Support/Observer",
+      "project_27": "Collaborator"
+    },
+    "evidence": [
+      "msg_6191465457816035045",
+      "msg_6209604899491922600",
+      "msg_9108454514471183193",
+      "msg_1322729114895308383",
+      "msg_2495076451932492569",
+      "msg_-8079289582046893194",
+      "msg_-2311586903679415885",
+      "msg_-1240633834768151628",
+      "msg_5301115998938440664",
+      "msg_7497866664092215875",
+      "msg_-2078082349435887187",
+      "msg_2718807434924554020",
+      "msg_4612453064057151834",
+      "msg_7478014586021953210",
+      "msg_1360785706355587056",
+      "msg_4254055397211195733",
+      "msg_4519358102233540929",
+      "msg_4477503085785948592",
+      "msg_-1364456763477310087",
+      "msg_-3402492141760818401",
+      "msg_1148488986369873041",
+      "msg_-3516522822167561458",
+      "msg_6698608881485782965",
+      "msg_-4499241323600041538",
+      "msg_7519411648697645201",
+      "msg_8401352776934755563",
+      "msg_-923471249021913326",
+      "msg_-7074555528259353561",
+      "msg_2991990976450844752",
+      "msg_-4208067601681895130",
+      "msg_8763780099553810670",
+      "msg_-7975527311966223533",
+      "msg_8881027838587055243",
+      "msg_7791415195043736475",
+      "msg_3542371892732024128",
+      "msg_-7971598299313878556",
+      "msg_2305393250642179209",
+      "msg_1677677098317887525",
+      "msg_1530398171612462527",
+      "msg_-3850139941219277578",
+      "msg_-3129535457601112881",
+      "msg_3080264432407383352",
+      "msg_8242652125519782724",
+      "msg_-8494712394044484417",
+      "msg_5814460438590087461",
+      "msg_1489836567700505234",
+      "msg_-5109892501092219718",
+      "msg_8487057731254016693",
+      "msg_-2911294519228292530",
+      "msg_-5398883251686137958",
+      "msg_-487466822047858647",
+      "msg_9058323724666559468",
+      "msg_-1387954302480441190",
+      "msg_-2100927554700511374",
+      "msg_-1417783540899571937",
+      "msg_7676630080284062912",
+      "msg_-1794041633698203808",
+      "msg_-4943666289037658896",
+      "msg_2168145052920118442",
+      "msg_8287755036652021038",
+      "msg_6419469331773599254",
+      "msg_1059994565374850626",
+      "msg_-8085355019915933725",
+      "msg_6870814279547937471",
+      "msg_288415594406302347",
+      "msg_4895634905336803912",
+      "msg_8574353968234960778"
+    ],
+    "first_contact": "Fri, 27 Mar 2026 15:49:43 +0000",
+    "last_contact": "Fri, 05 Aug 2022 13:15:24 +0000"
+  },
+  "quinn.baker@startupco.com": {
+    "email": "quinn.baker@startupco.com",
+    "name": "Quinn Baker",
+    "organization": "startupco",
+    "messages_sent": 1,
+    "messages_received": 1,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_0": "Collaborator"
+    },
+    "evidence": [
+      "msg_-924017407284257314"
+    ],
+    "first_contact": "Wed, 22 Apr 2026 23:28:58 +0530",
+    "last_contact": "Wed, 22 Apr 2026 23:28:58 +0530"
+  },
+  "jamie.walker@consultingco.com": {
+    "email": "jamie.walker@consultingco.com",
+    "name": "Jamie Walker",
+    "organization": "consultingco",
+    "messages_sent": 2,
+    "messages_received": 0,
+    "topics": [
+      "StartupCo interactive brand identity",
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_2": "Team Member"
+    },
+    "evidence": [
+      "msg_-5168709252623422316",
+      "msg_7616547357847331865"
+    ],
+    "first_contact": "Thu, 13 Jun 2024 15:25:51 +0530",
+    "last_contact": "Wed, 19 Jun 2024 16:12:52 +0530"
+  },
+  "taylor.parker@consultingco.com": {
+    "email": "taylor.parker@consultingco.com",
+    "name": "Taylor Parker",
+    "organization": "consultingco",
+    "messages_sent": 9,
+    "messages_received": 27,
+    "topics": [
+      "Re",
+      "Fwd"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_2": "Team Member",
+      "project_5": "Collaborator",
+      "project_10": "Team Member",
+      "project_15": "Support/Observer",
+      "project_16": "Support/Observer",
+      "project_24": "Support/Observer"
+    },
+    "evidence": [
+      "msg_6875821336927807551",
+      "msg_780883528052575477",
+      "msg_-7985561091079854598",
+      "msg_4539014426594988638",
+      "msg_7029932767520588219",
+      "msg_-7863879919437908911",
+      "msg_-8775442778105601953",
+      "msg_5925867613027657359",
+      "msg_4968495224921900705"
+    ],
+    "first_contact": "Fri, 15 Sep 2023 14:44:43 +0530",
+    "last_contact": "Sat, 29 Oct 2022 00:35:43 +0530"
+  },
+  "reese.anderson@consultingco.com": {
+    "email": "reese.anderson@consultingco.com",
+    "name": "Reese Anderson",
+    "organization": "consultingco",
+    "messages_sent": 2,
+    "messages_received": 10,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_4": "Collaborator",
+      "project_6": "Collaborator",
+      "project_7": "Support/Observer"
+    },
+    "evidence": [
+      "msg_2920737836620011756",
+      "msg_-6535376453529985808"
+    ],
+    "first_contact": "Thu, 05 Oct 2023 17:23:03 +0530",
+    "last_contact": "Mon, 04 Sep 2023 16:25:43 +0530"
+  },
+  "indigo.davis@consultingco.com": {
+    "email": "indigo.davis@consultingco.com",
+    "name": "Indigo Davis",
+    "organization": "consultingco",
+    "messages_sent": 4,
+    "messages_received": 6,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_5": "Collaborator"
+    },
+    "evidence": [
+      "msg_-3514422339556926198",
+      "msg_-5194322678789951736",
+      "msg_3655522018465119890",
+      "msg_3408866360157865577"
+    ],
+    "first_contact": "Fri, 15 Sep 2023 10:56:15 +0000",
+    "last_contact": "Mon, 18 Sep 2023 10:15:43 +0000"
+  },
+  "avery.young@consultingco.com": {
+    "email": "avery.young@consultingco.com",
+    "name": "Avery Young",
+    "organization": "consultingco",
+    "messages_sent": 0,
+    "messages_received": 1,
+    "topics": [],
+    "communication_pattern": [],
+    "roles": {
+      "project_6": "Support/Observer"
+    },
+    "evidence": [],
+    "first_contact": null,
+    "last_contact": null
+  },
+  "terry.garcia@consultingco.com": {
+    "email": "terry.garcia@consultingco.com",
+    "name": "Terry Garcia",
+    "organization": "consultingco",
+    "messages_sent": 1,
+    "messages_received": 16,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_7": "Support/Observer",
+      "project_10": "Team Member",
+      "project_12": "Support/Observer",
+      "project_24": "Support/Observer"
+    },
+    "evidence": [
+      "msg_-7307498307537885055"
+    ],
+    "first_contact": "Thu, 03 Nov 2022 22:29:28 +0530",
+    "last_contact": "Thu, 03 Nov 2022 22:29:28 +0530"
+  },
+  "charlie.brooks@consultingco.com": {
+    "email": "charlie.brooks@consultingco.com",
+    "name": "Charlie Brooks",
+    "organization": "consultingco",
+    "messages_sent": 1,
+    "messages_received": 1,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_7": "Collaborator"
+    },
+    "evidence": [
+      "msg_2011528587628041459"
+    ],
+    "first_contact": "Thu, 24 Aug 2023 17:29:04 +0530",
+    "last_contact": "Thu, 24 Aug 2023 17:29:04 +0530"
+  },
+  "hollis.murray@consultingco.com": {
+    "email": "hollis.murray@consultingco.com",
+    "name": "Hollis Murray",
+    "organization": "consultingco",
+    "messages_sent": 11,
+    "messages_received": 18,
+    "topics": [
+      "Re",
+      "Weekly BD Highlights",
+      "Fwd"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_8": "Team Member",
+      "project_15": "Collaborator",
+      "project_25": "Support/Observer",
+      "project_26": "Collaborator",
+      "project_27": "Team Member"
+    },
+    "evidence": [
+      "msg_5377738062708435364",
+      "msg_-1875856089675543312",
+      "msg_-6850719329267024347",
+      "msg_-3914114297227008208",
+      "msg_7048016745564092617",
+      "msg_-7849208949197498979",
+      "msg_-1279164341818143399",
+      "msg_-2575662095524591122",
+      "msg_7919235512210820578",
+      "msg_-278545054179912953",
+      "msg_-1871071221768021517"
+    ],
+    "first_contact": "Mon, 07 Nov 2022 16:46:07 +0530",
+    "last_contact": "Fri, 05 Aug 2022 20:58:32 +0530"
+  },
+  "hayden.evans@consultingco.com": {
+    "email": "hayden.evans@consultingco.com",
+    "name": "Hayden Evans",
+    "organization": "consultingco",
+    "messages_sent": 16,
+    "messages_received": 31,
+    "topics": [
+      "Re",
+      "Small Favor"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_9": "Collaborator",
+      "project_11": "Support/Observer",
+      "project_12": "Collaborator",
+      "project_14": "Collaborator",
+      "project_19": "Collaborator",
+      "project_22": "Support/Observer",
+      "project_24": "Support/Observer",
+      "project_25": "Support/Observer"
+    },
+    "evidence": [
+      "msg_3733338855032006142",
+      "msg_7454438735327802423",
+      "msg_-1896448639501011883",
+      "msg_-6432826865660455764",
+      "msg_-1106288106431108048",
+      "msg_7376399364714138275",
+      "msg_3816161002229746874",
+      "msg_-2636380154453997587",
+      "msg_2260506219151393551",
+      "msg_590057634016366920",
+      "msg_6728680575701474670",
+      "msg_-7668166849895599534",
+      "msg_-6640138464445423763",
+      "msg_-7381504762353769274",
+      "msg_8902770625944185105",
+      "msg_-37431592820271211"
+    ],
+    "first_contact": "Sat, 21 Jan 2023 00:10:34 +0530",
+    "last_contact": "Wed, 25 Jan 2023 17:27:39 +0530"
+  },
+  "kelly.underwood@consultingco.com": {
+    "email": "kelly.underwood@consultingco.com",
+    "name": "Kelly Underwood",
+    "organization": "consultingco",
+    "messages_sent": 59,
+    "messages_received": 71,
+    "topics": [
+      "StartupCo-Product Demo",
+      "StartupCo-Scope",
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_9": "Support/Observer",
+      "project_11": "Team Member",
+      "project_12": "Support/Observer",
+      "project_22": "Collaborator",
+      "project_24": "Collaborator",
+      "project_25": "Collaborator"
+    },
+    "evidence": [
+      "msg_888387218355760754",
+      "msg_-7087162047680992840",
+      "msg_-296519288602615396",
+      "msg_8946886352739145420",
+      "msg_-5589306579606643907",
+      "msg_3903865835864523798",
+      "msg_4578016915748233106",
+      "msg_-4587299284917928552",
+      "msg_-784562919421872027",
+      "msg_656991936345459827",
+      "msg_4093879033092546220",
+      "msg_-9183343018118629708",
+      "msg_-2369375463985976324",
+      "msg_7996882439517293124",
+      "msg_-8756664788973029295",
+      "msg_-7981076211120889597",
+      "msg_-4242057861209416909",
+      "msg_-5620860725870767461",
+      "msg_-82971899960279363",
+      "msg_-8545181197356440912",
+      "msg_4295290397802637138",
+      "msg_-2636073677418561498",
+      "msg_-4379356554429874952",
+      "msg_-1102232199122354542",
+      "msg_1284126000049082441",
+      "msg_7178802651506123102",
+      "msg_4707385429687785625",
+      "msg_-6338579089705155057",
+      "msg_-6701874393265740363",
+      "msg_-99142518541046596",
+      "msg_177040147619678248",
+      "msg_-1215550677262878586",
+      "msg_-3604274728526033381",
+      "msg_-4476440823411525588",
+      "msg_-2115320074760554338",
+      "msg_-1793986044724540634",
+      "msg_-7913880267789480068",
+      "msg_8518285530099472230",
+      "msg_-5329097901959519447",
+      "msg_4084966659667134458",
+      "msg_-2247209945775795097",
+      "msg_2149571677918746021",
+      "msg_-5881053702571276880",
+      "msg_6234669374192704610",
+      "msg_643201281662572205",
+      "msg_637597988989384174",
+      "msg_723759045363174819",
+      "msg_-3953260640364288385",
+      "msg_-2261641929022979128",
+      "msg_1599085484032406815",
+      "msg_4501231218843548759",
+      "msg_5355155701125938703",
+      "msg_7604590158686487277",
+      "msg_-1322509153608525263",
+      "msg_-1641852976652979571",
+      "msg_3970969454453058300",
+      "msg_5431043177636975198",
+      "msg_-212496997230181408",
+      "msg_5748546040989324363"
+    ],
+    "first_contact": "Wed, 04 Jan 2023 23:26:18 +0530",
+    "last_contact": "Fri, 02 Sep 2022 15:17:37 +0000"
+  },
+  "indigo.walker@consultingco.com": {
+    "email": "indigo.walker@consultingco.com",
+    "name": "Indigo Walker",
+    "organization": "consultingco",
+    "messages_sent": 9,
+    "messages_received": 12,
+    "topics": [
+      "Re",
+      "StartupCo Positioning and Essence",
+      "StartupCo Communication Strategy"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_13": "Collaborator",
+      "project_17": "Support/Observer",
+      "project_21": "Collaborator",
+      "project_24": "Support/Observer"
+    },
+    "evidence": [
+      "msg_5591279142112871465",
+      "msg_7644250550057780876",
+      "msg_-4597841672620971584",
+      "msg_-2514908848896364321",
+      "msg_586663250748073582",
+      "msg_6336209835625118950",
+      "msg_5585856477916206542",
+      "msg_-6315971102113589412",
+      "msg_-615559334963997047"
+    ],
+    "first_contact": "Fri, 11 Nov 2022 21:55:13 +0530",
+    "last_contact": "Mon, 10 Oct 2022 18:41:26 +0530"
+  },
+  "sam.stone@startupco.com": {
+    "email": "sam.stone@startupco.com",
+    "name": "sam.stone@StartupCo.com, katy@StartupCo.com, Elliott Evans",
+    "organization": "startupco",
+    "messages_sent": 20,
+    "messages_received": 49,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_13": "Support/Observer",
+      "project_14": "Team Member",
+      "project_24": "Support/Observer"
+    },
+    "evidence": [
+      "msg_8621639564691973744",
+      "msg_-5226942108211192798",
+      "msg_8273749641339387771",
+      "msg_1756286683778468414",
+      "msg_-8271338517069334841",
+      "msg_6630621052929213691",
+      "msg_-3442095166849659911",
+      "msg_6599264140893748621",
+      "msg_-4387588577688477542",
+      "msg_-6584808892114150988",
+      "msg_-4239913253307464837",
+      "msg_-520981851110049825",
+      "msg_8152934662805317241",
+      "msg_4404260326325539642",
+      "msg_-6761760543771799205",
+      "msg_8871206165278139203",
+      "msg_4905203844868092580",
+      "msg_8033049418968779214",
+      "msg_-773750242187594748",
+      "msg_-5199058538663983000"
+    ],
+    "first_contact": "Thu, 03 Nov 2022 10:06:12 -0700",
+    "last_contact": "Fri, 03 Feb 2023 09:34:20 -0800"
+  },
+  "oakley.brooks@consultingco.com": {
+    "email": "oakley.brooks@consultingco.com",
+    "name": "oakley.brooks@ConsultingCo.com, jamie.adams@StartupCo.com, hayden.moore@ConsultingCo.com, katy@StartupCo.com, elliott.evans@StartupCo.com, mariel@StartupCo.com, kelly.underwood@ConsultingCo.com, terry.palmer@ConsultingCo.com, indigo.walker@ConsultingCo.com",
+    "organization": "consultingco",
+    "messages_sent": 6,
+    "messages_received": 8,
+    "topics": [
+      "StartupCo.com Brand Strategy Workshop",
+      "Re",
+      "StartupCo Brand Strategy Final (Keynote)",
+      "Fwd"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_14": "Support/Observer",
+      "project_17": "Collaborator",
+      "project_18": "Team Member",
+      "project_21": "Support/Observer",
+      "project_22": "Collaborator",
+      "project_24": "Team Member"
+    },
+    "evidence": [
+      "msg_-774773716874849362",
+      "msg_-7820127956143940345",
+      "msg_-2413426506655976743",
+      "msg_-4075957332006868257",
+      "msg_3278969652178769501",
+      "msg_-8123763522620442394"
+    ],
+    "first_contact": "Fri, 07 Oct 2022 20:31:11 +0530",
+    "last_contact": "Wed, 12 Oct 2022 02:11:59 +0530"
+  },
+  "lennon.quinn@consultingco.com": {
+    "email": "lennon.quinn@consultingco.com",
+    "name": "Lennon Quinn",
+    "organization": "consultingco",
+    "messages_sent": 2,
+    "messages_received": 11,
+    "topics": [
+      "Re",
+      "Fwd"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_15": "Support/Observer",
+      "project_24": "Support/Observer",
+      "project_25": "Support/Observer",
+      "project_27": "Support/Observer"
+    },
+    "evidence": [
+      "msg_8919117150246708117",
+      "msg_-4250021002540243025"
+    ],
+    "first_contact": "Fri, 09 Sep 2022 21:05:23 +0530",
+    "last_contact": "Tue, 30 Aug 2022 15:48:10 +0530"
+  },
+  "hayden.moore@consultingco.com": {
+    "email": "hayden.moore@consultingco.com",
+    "name": "Hayden Moore",
+    "organization": "consultingco",
+    "messages_sent": 10,
+    "messages_received": 20,
+    "topics": [
+      "StartupCo Overall Runsheet",
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_15": "Collaborator",
+      "project_17": "Team Member",
+      "project_21": "Support/Observer",
+      "project_23": "Collaborator",
+      "project_24": "Support/Observer",
+      "project_25": "Collaborator"
+    },
+    "evidence": [
+      "msg_772876377784065919",
+      "msg_6334101773039929299",
+      "msg_-4358748440448182479",
+      "msg_5349451957195316408",
+      "msg_7034369822588535114",
+      "msg_6211324958299570644",
+      "msg_-39854392835341183",
+      "msg_-3039233686376381890",
+      "msg_6679000567053329044",
+      "msg_1750519808507272418"
+    ],
+    "first_contact": "Mon, 07 Nov 2022 17:00:55 +0530",
+    "last_contact": "Thu, 01 Sep 2022 13:46:38 +0530"
+  },
+  "jules.gray@consultingco.com": {
+    "email": "jules.gray@consultingco.com",
+    "name": "Jules Gray",
+    "organization": "consultingco",
+    "messages_sent": 2,
+    "messages_received": 2,
+    "topics": [
+      "Re",
+      "[Company Name] | New Branding Materials | Final"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_19": "Team Member"
+    },
+    "evidence": [
+      "msg_-1461175608444950439",
+      "msg_5793261009062709496"
+    ],
+    "first_contact": "Fri, 07 Oct 2022 02:34:24 +0530",
+    "last_contact": "Fri, 07 Oct 2022 03:14:49 +0530"
+  },
+  "skylar.stone@consultingco.com": {
+    "email": "skylar.stone@consultingco.com",
+    "name": "Skylar Stone",
+    "organization": "consultingco",
+    "messages_sent": 1,
+    "messages_received": 1,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_19": "Collaborator"
+    },
+    "evidence": [
+      "msg_-7944168632299210893"
+    ],
+    "first_contact": "Fri, 07 Oct 2022 05:36:09 +0530",
+    "last_contact": "Fri, 07 Oct 2022 05:36:09 +0530"
+  },
+  "indigo.webb@consultingco.com": {
+    "email": "indigo.webb@consultingco.com",
+    "name": "Indigo Webb",
+    "organization": "consultingco",
+    "messages_sent": 1,
+    "messages_received": 1,
+    "topics": [
+      "StartupCo Manifesto for Brand Identity Presentation"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_20": "Client Lead"
+    },
+    "evidence": [
+      "msg_6954185662520887575"
+    ],
+    "first_contact": "Tue, 04 Oct 2022 19:49:02 +0530",
+    "last_contact": "Tue, 04 Oct 2022 19:49:02 +0530"
+  },
+  "arden.scott@consultingco.com": {
+    "email": "arden.scott@consultingco.com",
+    "name": "Arden Scott",
+    "organization": "consultingco",
+    "messages_sent": 0,
+    "messages_received": 1,
+    "topics": [],
+    "communication_pattern": [],
+    "roles": {
+      "project_22": "Support/Observer"
+    },
+    "evidence": [],
+    "first_contact": null,
+    "last_contact": null
+  },
+  "sam.stone@genericemail.com": {
+    "email": "sam.stone@genericemail.com",
+    "name": "Sam Stone",
+    "organization": "genericemail",
+    "messages_sent": 1,
+    "messages_received": 0,
+    "topics": [
+      "Re"
+    ],
+    "communication_pattern": [],
+    "roles": {
+      "project_24": "Collaborator"
+    },
+    "evidence": [
+      "msg_-8719632478861157745"
+    ],
+    "first_contact": "Tue, 29 Nov 2022 22:34:07 -0800",
+    "last_contact": "Tue, 29 Nov 2022 22:34:07 -0800"
+  },
+  "jamie.adams@genericemail.com": {
+    "email": "jamie.adams@genericemail.com",
+    "name": "Jamie Adams",
+    "organization": "genericemail",
+    "messages_sent": 0,
+    "messages_received": 1,
+    "topics": [],
+    "communication_pattern": [],
+    "roles": {
+      "project_24": "Support/Observer"
+    },
+    "evidence": [],
+    "first_contact": null,
+    "last_contact": null
+  },
+  "bailey.taylor@consultingco.com": {
+    "email": "bailey.taylor@consultingco.com",
+    "name": "Bailey Taylor",
+    "organization": "consultingco",
+    "messages_sent": 0,
+    "messages_received": 2,
+    "topics": [],
+    "communication_pattern": [],
+    "roles": {
+      "project_26": "Team Member"
+    },
+    "evidence": [],
+    "first_contact": null,
+    "last_contact": null
+  }
+}

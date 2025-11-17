@@ -1,0 +1,23 @@
+[
+  {
+    "event_id": "cal_001",
+    "summary": "StartupCo Brand Book - Kickoff Meeting",
+    "start": "2026-03-24T10:00:00",
+    "end": "2026-03-24T11:00:00",
+    "attendees": [
+      "sage.harris@consultingco.com",
+      "jamie.adams@startupco.com"
+    ]
+  },
+  {
+    "event_id": "cal_002",
+    "summary": "Brand Book Review",
+    "start": "2026-04-10T14:00:00",
+    "end": "2026-04-10T15:00:00",
+    "attendees": [
+      "sage.harris@consultingco.com",
+      "jamie.adams@startupco.com",
+      "quinn.baker@startupco.com"
+    ]
+  }
+]

@@ -1,0 +1,1411 @@
+[
+  {
+    "project_id": "project_0",
+    "project_name": "StartupCo Digital Assets - Next steps",
+    "project_type": "Client Project",
+    "total_emails": 7,
+    "timeline_stages": [
+      {
+        "stage": "Kickoff",
+        "date": "Wed, 25 Mar 2026",
+        "evidence": "1"
+      },
+      {
+        "stage": "Execution",
+        "date": "Wed, 22 Apr 2026",
+        "evidence": "5"
+      }
+    ],
+    "topics": [
+      "Platform Access",
+      "API Integration",
+      "Financial Reconciliation"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Delay in response regarding hosting",
+        "who": "Jamie Adams",
+        "why": "Late reply from Jamie Adams",
+        "duration": "Approximately 1 month",
+        "impact": "Delayed progress on hosting configuration"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Uncertainty about project approval",
+        "why": "Jamie Adams was unaware of the need for approval",
+        "impact": "Potential confusion and misalignment on project scope"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Coordination with operations team",
+        "why": "Involving Quinn Baker helped move the hosting configuration forward"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure clear communication about project approvals",
+        "context": "At the start of the project",
+        "action": "Confirm understanding and approval from all stakeholders"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Financial reconciliation tasks",
+        "when": "Thu, 26 Mar 2026",
+        "how_addressed": "Jamie Adams suggested assigning someone from their team after the Holiday Season"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_2",
+    "project_name": "StartupCo interactive brand identity",
+    "project_type": "Client Project",
+    "total_emails": 2,
+    "timeline_stages": [
+      {
+        "stage": "Proposal",
+        "date": "Thu, 13 Jun 2024",
+        "evidence": "1"
+      }
+    ],
+    "topics": [
+      "Financial Workflow Optimization",
+      "Platform Development",
+      "Timeline Management"
+    ],
+    "bottlenecks": [],
+    "pain_points": [],
+    "what_worked": [],
+    "lessons_learned": [],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_4",
+    "project_name": "Your opinion is important to us!",
+    "project_type": "Client Project",
+    "total_emails": 2,
+    "timeline_stages": [
+      {
+        "stage": "Outreach",
+        "date": "2023-10-05",
+        "evidence": "1"
+      }
+    ],
+    "topics": [
+      "Client Feedback",
+      "Testimonial Request",
+      "Case Study"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Missing contact information for a client",
+        "who": "Reese Anderson",
+        "why": "Lack of updated client contact list",
+        "duration": "Not specified",
+        "impact": "Potential delay in reaching out to all clients for testimonials"
+      }
+    ],
+    "pain_points": [],
+    "what_worked": [
+      {
+        "what": "Expressing appreciation for client partnership",
+        "why": "Helps in building strong client relationships and encourages feedback"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure all client contact information is up-to-date before outreach",
+        "context": "When preparing to request client testimonials or case studies",
+        "action": "Maintain a regularly updated client contact database"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_5",
+    "project_name": "StartupCo Social Media",
+    "project_type": "Client Project",
+    "total_emails": 10,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "15 Sep 2023",
+        "evidence": "EMAIL 1"
+      },
+      {
+        "stage": "Review",
+        "date": "18 Sep 2023",
+        "evidence": "EMAIL 9"
+      }
+    ],
+    "topics": [
+      "Financial Reporting",
+      "Payment Platform",
+      "Branding",
+      "Graphics Compatibility",
+      "Social Media Strategy"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Graphics compatibility issue",
+        "who": "Indigo Davis, Taylor Parker",
+        "why": "Graphics were not in the correct format",
+        "duration": "Unknown",
+        "impact": "Delayed the social media post release"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Graphics do not work as intended",
+        "why": "Posted graphics become static images instead of videos",
+        "impact": "Required reformatting and delayed posting"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Decision to split content into two posts",
+        "why": "Allowed for better demonstration of the platform's versatility"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure graphics are in the correct format before posting",
+        "context": "When preparing social media content",
+        "action": "Verify compatibility of graphics formats with the platform"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_7",
+    "project_name": "ConsultingCo|StartupCo-New Scope",
+    "project_type": "Client Project",
+    "total_emails": 22,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "03 Aug 2023",
+        "evidence": "Email 3"
+      },
+      {
+        "stage": "Review",
+        "date": "05 Aug 2023",
+        "evidence": "Email 4"
+      },
+      {
+        "stage": "Delivery",
+        "date": "09 Aug 2023",
+        "evidence": "Email 8"
+      }
+    ],
+    "topics": [
+      "Design Collaboration",
+      "Icon Development",
+      "Financial Workflows",
+      "Project Timelines"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Delay in delivering design assets",
+        "who": "Sage Harris, Jamie Adams",
+        "why": "Team is stretched and assets needed for product demo",
+        "duration": "Ongoing as of 08 Aug 2023",
+        "impact": "Potential delay in project launch"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Missing design elements and icons",
+        "why": "Oversight in initial delivery",
+        "impact": "Required additional feedback and delayed finalization"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Effective use of design collaboration platform",
+        "why": "Facilitated easier feedback and communication"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure all design elements are included in initial delivery",
+        "context": "During design asset delivery",
+        "action": "Double-check against requirements before submission"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Timely delivery of design assets for product demo",
+        "when": "05 Aug 2023",
+        "how_addressed": "Requested expedited delivery and communicated urgency"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_8",
+    "project_name": "RAK Branding: Request for additional information",
+    "project_type": "Client Project",
+    "total_emails": 2,
+    "timeline_stages": [
+      {
+        "stage": "Discovery",
+        "date": "Thu, 25 Sawyer 2023",
+        "evidence": "2"
+      }
+    ],
+    "topics": [
+      "Payment Gateway Integration",
+      "Sensitive Financial Data",
+      "Client X"
+    ],
+    "bottlenecks": [],
+    "pain_points": [
+      {
+        "what": "Sensitive financial data handling",
+        "why": "Need for careful phrasing",
+        "impact": "Potential delay in communication"
+      }
+    ],
+    "what_worked": [],
+    "lessons_learned": [
+      {
+        "lesson": "Carefully consider phrasing when dealing with sensitive financial data",
+        "context": "When drafting communications involving financial information",
+        "action": "Review and revise language to ensure clarity and confidentiality"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_10",
+    "project_name": "Small favor",
+    "project_type": "Client Project",
+    "total_emails": 7,
+    "timeline_stages": [
+      {
+        "stage": "Outreach",
+        "date": "2023-01-20",
+        "evidence": "Email 1"
+      },
+      {
+        "stage": "Execution",
+        "date": "2023-01-20",
+        "evidence": "Email 3"
+      }
+    ],
+    "topics": [
+      "Brand Strategy",
+      "Financial Efficiency",
+      "Payment Workflow Optimization"
+    ],
+    "bottlenecks": [],
+    "pain_points": [],
+    "what_worked": [
+      {
+        "what": "Quick response and understanding of client's needs",
+        "why": "Terry Palmer promptly acknowledged Jamie Adams' request and initiated internal discussions to address it."
+      }
+    ],
+    "lessons_learned": [],
+    "client_concerns": [
+      {
+        "concern": "Confusion for investors due to branding inconsistency",
+        "when": "2023-01-20",
+        "how_addressed": "Jamie Adams decided to use the old branding for the pitch deck to avoid confusion."
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_11",
+    "project_name": "StartupCo-Scope",
+    "project_type": "Client Project",
+    "total_emails": 3,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "04 Jan 2023",
+        "evidence": "Email 1"
+      },
+      {
+        "stage": "Review",
+        "date": "05 Jan 2023",
+        "evidence": "Email 3"
+      }
+    ],
+    "topics": [
+      "Payment Platform Integration",
+      "API Integration",
+      "User Support Documentation"
+    ],
+    "bottlenecks": [
+      {
+        "what": "API integrations exceeded initial scope",
+        "who": "ConsultingCo team",
+        "why": "Requested API integrations were beyond agreed parameters",
+        "duration": "Not specified",
+        "impact": "Significantly impacted development timelines"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Scope revisions by PaymentSolutions Inc.",
+        "why": "Requests for API integrations and user support documentation were out of scope",
+        "impact": "Caused concerns and impacted timelines"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Completion of bulk of extra work",
+        "why": "Successfully completed website design and payment portal integration"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Clearly define and agree on project scope to avoid scope creep",
+        "context": "When setting project parameters and scope",
+        "action": "Ensure all parties agree on scope and document it clearly"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Scope revisions and additional requests",
+        "when": "04 Jan 2023",
+        "how_addressed": "Communicated that extra modifications will be included in the next invoice"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_12",
+    "project_name": "Project 12",
+    "project_type": "Client Project",
+    "total_emails": 7,
+    "timeline_stages": [
+      {
+        "stage": "Outreach",
+        "date": "Thu, 08 Dec 2022",
+        "evidence": "EMAIL 1"
+      },
+      {
+        "stage": "Execution",
+        "date": "Fri, 09 Dec 2022",
+        "evidence": "EMAIL 5"
+      }
+    ],
+    "topics": [
+      "Swag Production",
+      "Brand Assets",
+      "Financial Reporting",
+      "Payment Processing Integration"
+    ],
+    "bottlenecks": [],
+    "pain_points": [
+      {
+        "what": "Uncertainty about swag production requirements",
+        "why": "Jamie Adams was new to this part of the business",
+        "impact": "Required additional support and guidance from the consulting team"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Provision of branding assets",
+        "why": "Consulting team delivered final branding assets as requested"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure clear understanding of client needs and requirements",
+        "context": "When dealing with new aspects of a project",
+        "action": "Provide detailed guidance and support to clients unfamiliar with certain processes"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Uncertainty about financial reporting templates and invoice processing",
+        "when": "Fri, 09 Dec 2022",
+        "how_addressed": "Consulting team to provide more details and handle the process"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_13",
+    "project_name": "StartupCo Communication Strategy",
+    "project_type": "Client Project",
+    "total_emails": 4,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "11 Nov 2022",
+        "evidence": "EMAIL 1"
+      },
+      {
+        "stage": "Review",
+        "date": "23 Nov 2022",
+        "evidence": "EMAIL 3"
+      }
+    ],
+    "topics": [
+      "Financial Operations Strategy",
+      "Brand Messaging",
+      "Workflow Diagrams"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Delayed internal review of the financial workflow diagrams",
+        "who": "StartupCo team",
+        "why": "Busy with a big new platform rollout",
+        "duration": "Approximately 1 week",
+        "impact": "Delayed feedback to ConsultingCo"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Delayed response to ConsultingCo",
+        "why": "StartupCo was busy with a platform rollout",
+        "impact": "Potential delay in project progress"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Initial review of the financial workflow diagrams was promising",
+        "why": "ConsultingCo provided comprehensive and satisfactory materials"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure timely internal reviews to avoid project delays",
+        "context": "When busy with other major projects",
+        "action": "Allocate dedicated resources for project review"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Busy schedule due to a new platform rollout",
+        "when": "23 Nov 2022",
+        "how_addressed": "ConsultingCo expressed understanding and patience"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_15",
+    "project_name": "MediaPlatform <> ConsultingCo",
+    "project_type": "Proposal",
+    "total_emails": 20,
+    "timeline_stages": [
+      {
+        "stage": "Outreach",
+        "date": "05 Nov 2022",
+        "evidence": "1"
+      },
+      {
+        "stage": "Proposal",
+        "date": "07 Nov 2022",
+        "evidence": "3"
+      }
+    ],
+    "topics": [
+      "Platform Branding",
+      "Payment Processing",
+      "Financial Workflow Validation"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Ambiguities in client requirements",
+        "who": "Terry Palmer, ConsultingCo team",
+        "why": "Unclear client requirements and need for validation",
+        "duration": "Not specified",
+        "impact": "Delayed proposal finalization"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Unclear client requirements",
+        "why": "Need for thorough validation of financial workflows",
+        "impact": "Potential delay in project proposal and execution"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Inclusion of strategy workshop in proposal",
+        "why": "Ensures internal alignment and thorough understanding of client needs"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure client requirements are clear before proceeding",
+        "context": "When preparing proposals",
+        "action": "Conduct a call or meeting to clarify any ambiguities"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_16",
+    "project_name": "Branding/Naming & Logo Design Firm Recs?",
+    "project_type": "Client Project",
+    "total_emails": 6,
+    "timeline_stages": [
+      {
+        "stage": "Negotiation",
+        "date": "Sat, 05 Nov 2022",
+        "evidence": "EMAIL 2"
+      }
+    ],
+    "topics": [
+      "Pricing Strategy",
+      "Referral Management",
+      "Service Packages"
+    ],
+    "bottlenecks": [],
+    "pain_points": [],
+    "what_worked": [
+      {
+        "what": "Designing tiered service packages",
+        "why": "Allows flexibility to meet different startup needs"
+      }
+    ],
+    "lessons_learned": [],
+    "client_concerns": [
+      {
+        "concern": "Pricing and special treatment for referrals",
+        "when": "Sat, 05 Nov 2022",
+        "how_addressed": "Jamie Adams clarified that special pricing was not necessary"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_17",
+    "project_name": "Project 17",
+    "project_type": "Client Project",
+    "total_emails": 4,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "07 Oct 2022",
+        "evidence": "Email 1"
+      },
+      {
+        "stage": "Review",
+        "date": "08 Oct 2022",
+        "evidence": "Email 2"
+      }
+    ],
+    "topics": [
+      "Brand Identity",
+      "Financial Operations",
+      "Teamwork"
+    ],
+    "bottlenecks": [],
+    "pain_points": [],
+    "what_worked": [
+      {
+        "what": "Streamlining financial operations and driving improvements in efficiency",
+        "why": "Successful teamwork and collaboration"
+      }
+    ],
+    "lessons_learned": [],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_19",
+    "project_name": "StartupCo | Rebranding | Final",
+    "project_type": "Client Project",
+    "total_emails": 6,
+    "timeline_stages": [
+      {
+        "stage": "Review",
+        "date": "Thu, 06 Oct 2022",
+        "evidence": "EMAIL 1"
+      },
+      {
+        "stage": "Delivery",
+        "date": "Fri, 07 Oct 2022",
+        "evidence": "EMAIL 2"
+      },
+      {
+        "stage": "Execution",
+        "date": "Fri, 07 Oct 2022",
+        "evidence": "EMAIL 3"
+      }
+    ],
+    "topics": [
+      "Branding Guidelines",
+      "Presentation Materials",
+      "Financial Report"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Typos in presentation materials",
+        "who": "Hayden Evans",
+        "why": "Errors in the document",
+        "duration": "Not specified",
+        "impact": "Required revisions to be made"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Typos and unnecessary words in presentation slides",
+        "why": "Lack of thorough proofreading",
+        "impact": "Required additional review and corrections"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Overall branding materials were well-received",
+        "why": "Positive feedback from team members"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure thorough proofreading of materials before final delivery",
+        "context": "When preparing presentation materials",
+        "action": "Implement a review process to catch errors"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_20",
+    "project_name": "StartupCo Manifesto for Brand Identity Presentation",
+    "project_type": "Client Project",
+    "total_emails": 2,
+    "timeline_stages": [
+      {
+        "stage": "Proposal",
+        "date": "Tue, 04 Oct 2022",
+        "evidence": "Email 1"
+      }
+    ],
+    "topics": [
+      "Financial Processing",
+      "Payment Automation",
+      "Growth Strategy"
+    ],
+    "bottlenecks": [],
+    "pain_points": [
+      {
+        "what": "Lack of clarity in financial processing timelines",
+        "why": "Imprecise descriptions in the proposal",
+        "impact": "Potential misunderstanding of key functionalities"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Focus on seamless transaction processing and growth facilitation",
+        "why": "Aligns with client needs for efficient data transfer and business operations"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure clarity and precision in proposal descriptions",
+        "context": "When discussing financial processing timelines",
+        "action": "Use precise language and highlight key functionalities"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Clarity in financial processing timelines",
+        "when": "Tue, 04 Oct 2022",
+        "how_addressed": "Terry Palmer suggested ensuring clarity and considering alternative phrasing"
+      }
+    ],
+    "evidence": [
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_21",
+    "project_name": "Project Update",
+    "project_type": "Client Project",
+    "total_emails": 9,
+    "timeline_stages": [
+      {
+        "stage": "Proposal",
+        "date": "Tue, 04 Oct 2022",
+        "evidence": "EMAIL 2"
+      },
+      {
+        "stage": "Review",
+        "date": "Wed, 05 Oct 2022",
+        "evidence": "EMAIL 7"
+      }
+    ],
+    "topics": [
+      "Brand Positioning",
+      "Brand Essence",
+      "Financial Workflow Automation"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Misalignment on brand positioning proposals",
+        "who": "Terry Palmer, Indigo Walker",
+        "why": "Proposals did not align with the client's needs for transaction scaling",
+        "duration": "1 day",
+        "impact": "Delayed agreement on brand positioning"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Proposals did not fully align with client needs",
+        "why": "Focus was not sufficiently on financial workflow automation",
+        "impact": "Required revisiting and revising proposals"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Initial brand positioning and essence proposals",
+        "why": "Provided a foundation for further refinement and discussion"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure alignment with client needs from the start",
+        "context": "When developing brand positioning proposals",
+        "action": "Focus on key client priorities such as financial workflow automation"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Proposals not aligning with transaction scaling needs",
+        "when": "Wed, 05 Oct 2022",
+        "how_addressed": "Requested revisiting proposals with a focus on financial workflow automation"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_22",
+    "project_name": "StartupCo-Product Demo",
+    "project_type": "Client Project",
+    "total_emails": 5,
+    "timeline_stages": [
+      {
+        "stage": "Review",
+        "date": "21 Sep 2022",
+        "evidence": "EMAIL 1"
+      },
+      {
+        "stage": "Execution",
+        "date": "04 Oct 2022",
+        "evidence": "EMAIL 5"
+      }
+    ],
+    "topics": [
+      "Financial Data Review",
+      "Payment Platform Demo",
+      "Link Sharing"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Link access issue",
+        "who": "Terry Palmer",
+        "why": "Original link was not working",
+        "duration": "2 days",
+        "impact": "Delayed access to financial data review"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Link access issue",
+        "why": "Original link was not working",
+        "impact": "Delayed access to necessary information"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Providing a new link promptly",
+        "why": "Ensured continued access to necessary resources"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure links are functional before sharing",
+        "context": "When sharing important documents",
+        "action": "Test all links prior to distribution"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_23",
+    "project_name": "StartupCo Overall Runsheet",
+    "project_type": "Client Project",
+    "total_emails": 7,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "07 Sep 2022",
+        "evidence": "Email 1"
+      },
+      {
+        "stage": "Review",
+        "date": "08 Sep 2022",
+        "evidence": "Email 2"
+      }
+    ],
+    "topics": [
+      "Target market definition for payment platform",
+      "B2B financial workflow analysis",
+      "Payment Automation Concept",
+      "Financial Efficiency Value Proposition",
+      "Competitive Analysis for Invoice Management"
+    ],
+    "bottlenecks": [],
+    "pain_points": [],
+    "what_worked": [
+      {
+        "what": "Uncovered opportunities to integrate into financial workflow optimization plan",
+        "why": "The execution of the runsheet activities was effective"
+      }
+    ],
+    "lessons_learned": [],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_24",
+    "project_name": "StartupCo Brand Strategy Workshop",
+    "project_type": "Client Project",
+    "total_emails": 150,
+    "timeline_stages": [
+      {
+        "stage": "Kickoff",
+        "date": "2022-09-07",
+        "evidence": "Email 2"
+      },
+      {
+        "stage": "Execution",
+        "date": "2022-09-08",
+        "evidence": "Email 3"
+      }
+    ],
+    "topics": [
+      "Brand Strategy",
+      "Workshop",
+      "Payment Integration",
+      "Timeline Management"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Delay in receiving deliverables, specifically the branding guide.",
+        "who": "Terry Palmer, Jamie Adams",
+        "why": "Unclear communication and expectations regarding timeline adherence.",
+        "duration": "Unspecified, but critical to be resolved by early November.",
+        "impact": "Potential disruption to StartupCo's operational efficiency."
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Delay in deliverables.",
+        "why": "Misalignment on timeline expectations.",
+        "impact": "Could affect StartupCo's operational efficiency."
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Productive and efficient workshop meeting.",
+        "why": "Well-prepared agenda and active participation from both teams."
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure clear communication of timelines and deliverables.",
+        "context": "When setting project timelines and deliverables.",
+        "action": "Establish clear expectations and regular updates on progress."
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Adherence to the timeline for deliverables.",
+        "when": "2022-09-09",
+        "how_addressed": "Terry Palmer assured investigation into the delay."
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_25",
+    "project_name": "StartupCo's Introduction to ConsultingCo's Brand Development Team",
+    "project_type": "Client Project",
+    "total_emails": 13,
+    "timeline_stages": [
+      {
+        "stage": "Proposal",
+        "date": "Wed, 31 Aug 2022",
+        "evidence": "EMAIL 3"
+      },
+      {
+        "stage": "Kickoff",
+        "date": "Thu, 01 Sep 2022",
+        "evidence": "EMAIL 10"
+      }
+    ],
+    "topics": [
+      "Payment Workflow Integration",
+      "Project Timeline",
+      "Workshop Scheduling"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Delay in scheduling the workshop",
+        "who": "Jamie Adams, Hollis Murray",
+        "why": "Time zone differences and holiday considerations",
+        "duration": "Approximately 1 week",
+        "impact": "Delayed project kickoff"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Misalignment on workshop timing",
+        "why": "Time zone differences and initial scheduling miscommunication",
+        "impact": "Required rescheduling and clarification"
+      }
+    ],
+    "what_worked": [
+      {
+        "what": "Successful agreement on payment platform integration",
+        "why": "Clear communication and agreement on terms"
+      }
+    ],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure clear communication on scheduling across time zones",
+        "context": "When planning meetings with teams in different time zones",
+        "action": "Confirm time zones and availability before finalizing schedules"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Delay in project start and workshop scheduling",
+        "when": "Thu, 01 Sep 2022",
+        "how_addressed": "Updated project timeline and confirmed new workshop date"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_26",
+    "project_name": "Re: StartupCo re-Branding Project",
+    "project_type": "Client Project",
+    "total_emails": 4,
+    "timeline_stages": [
+      {
+        "stage": "Execution",
+        "date": "Thu, 01 Sep 2022",
+        "evidence": "Email 1"
+      }
+    ],
+    "topics": [
+      "Payment Transaction",
+      "Error Handling",
+      "Communication"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Payment transaction failed",
+        "who": "Jamie Adams, Terry Palmer, Hollis Murray",
+        "why": "Incorrect information or typo",
+        "duration": "Not specified",
+        "impact": "Delayed payment processing"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Transaction failure",
+        "why": "Incorrect information or typo",
+        "impact": "Caused confusion and required additional communication"
+      }
+    ],
+    "what_worked": [],
+    "lessons_learned": [
+      {
+        "lesson": "Ensure accuracy in transaction details",
+        "context": "When processing payments",
+        "action": "Double-check information before sending"
+      }
+    ],
+    "client_concerns": [
+      {
+        "concern": "Payment transaction failure",
+        "when": "Thu, 01 Sep 2022",
+        "how_addressed": "Reviewed instructions and identified typo"
+      }
+    ],
+    "evidence": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "project_id": "project_27",
+    "project_name": "Weekly BD Highlights",
+    "project_type": "Internal",
+    "total_emails": 3,
+    "timeline_stages": [
+      {
+        "stage": "Review",
+        "date": "05 Aug 2022",
+        "evidence": "Email 2"
+      }
+    ],
+    "topics": [
+      "Financial Performance",
+      "Payment Processing",
+      "Client Engagement"
+    ],
+    "bottlenecks": [
+      {
+        "what": "Low transaction volume in July",
+        "who": "ConsultingCo team",
+        "why": "10 days off and clients slow to return from holiday",
+        "duration": "July 2022",
+        "impact": "Shortfall in expected transaction volume"
+      }
+    ],
+    "pain_points": [
+      {
+        "what": "Lost projects",
+        "why": "Mismatch in services offered, high prices, slow timeframe",
+        "impact": "Reduced business opportunities"
+      }
+    ],
+    "what_worked": [],
+    "lessons_learned": [
+      {
+        "lesson": "Revisit service offerings and pricing strategy",
+        "context": "When pitching to clients",
+        "action": "Align services with client needs and adjust pricing"
+      }
+    ],
+    "client_concerns": [],
+    "evidence": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

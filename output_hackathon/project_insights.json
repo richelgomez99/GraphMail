@@ -1,0 +1,120 @@
+[
+  {
+    "project_name": "StartupCo Digital Assets - Next steps",
+    "project_id": "project_0",
+    "insights": {
+      "pain_points": [],
+      "bottlenecks": [
+        {
+          "what": "Delay in response from Jamie Adams regarding project follow-up.",
+          "cause": "Jamie Adams took time to respond to Sage Harris's follow-up email.",
+          "duration": "Approximately one month (from March 27 to April 22).",
+          "evidence": "Email from Jamie Adams on Wed, 22 Apr 2026 16:17:21 +0000."
+        }
+      ],
+      "what_went_well": [
+        {
+          "what": "Successful scheduling of a meeting with Quinn Baker.",
+          "why": "Quick confirmation and coordination between Sage Harris and Quinn Baker.",
+          "evidence": "Emails on Wed, 22 Apr 2026 22:42:57 +0530 and Wed, 22 Apr 2026 23:28:58 +0530."
+        }
+      ],
+      "lessons_learned": [
+        {
+          "lesson": "Ensure clear communication about project approvals and responsibilities.",
+          "context": "When initiating project steps and confirming client approvals.",
+          "action": "Explicitly confirm client understanding and approval of project scope and responsibilities at the outset."
+        }
+      ],
+      "client_concerns": [
+        {
+          "concern": "Uncertainty about the need for project approval.",
+          "when": "Thu, 26 Mar 2026 17:38:59 +0000.",
+          "how_addressed": "Clarification needed from ConsultingCo to ensure client is aware of approval requirements.",
+          "evidence": "Email from Jamie Adams on Thu, 26 Mar 2026 17:38:59 +0000."
+        }
+      ]
+    },
+    "email_count": 7
+  },
+  {
+    "project_name": "Consumer data internship",
+    "project_id": "project_1",
+    "insights": {
+      "pain_points": [],
+      "bottlenecks": [],
+      "what_went_well": [],
+      "lessons_learned": [],
+      "client_concerns": []
+    },
+    "email_count": 1
+  },
+  {
+    "project_name": "StartupCo interactive brand identity",
+    "project_id": "project_2",
+    "insights": {
+      "pain_points": [],
+      "bottlenecks": [],
+      "what_went_well": [],
+      "lessons_learned": [],
+      "client_concerns": []
+    },
+    "email_count": 2
+  },
+  {
+    "project_name": "Your opinion is important to us!",
+    "project_id": "project_3",
+    "insights": {
+      "pain_points": [],
+      "bottlenecks": [
+        {
+          "what": "Delayed response from Jamie Adams",
+          "cause": "Jamie was on a short break after a project milestone",
+          "duration": "Not specified, but implied to be a few days due to a long weekend",
+          "evidence": "Email from Jamie Adams on Wed, 11 Oct 2023 20:46:44 +0000"
+        }
+      ],
+      "what_went_well": [
+        {
+          "what": "Jamie Adams provided a testimonial for the updated website",
+          "why": "Jamie was willing to contribute and aligned with the vision of ConsultingCo",
+          "evidence": "Email from Jamie Adams on Wed, 11 Oct 2023 20:46:44 +0000"
+        }
+      ],
+      "lessons_learned": [
+        {
+          "lesson": "Account for potential delays due to client availability",
+          "context": "When requesting client input or testimonials",
+          "action": "Plan for potential delays by setting earlier deadlines or checking client availability in advance"
+        }
+      ],
+      "client_concerns": []
+    },
+    "email_count": 4
+  },
+  {
+    "project_name": "Your opinion is important to us!",
+    "project_id": "project_4",
+    "insights": {
+      "pain_points": [],
+      "bottlenecks": [
+        {
+          "what": "Missing email address for Marcus from Project Alpha.",
+          "cause": "Reese Anderson does not have Marcus's email address.",
+          "duration": "Potential delay in reaching out to Marcus for a case study.",
+          "evidence": "Reese Anderson's email on Thu, 05 Oct 2023 17:23:03 +0530."
+        }
+      ],
+      "what_went_well": [
+        {
+          "what": "Client's operational excellence enhanced using the fintech platform.",
+          "why": "The fintech platform provided effective solutions.",
+          "evidence": "Sage Harris's email on Thu, 05 Oct 2023 17:16:15 +0530."
+        }
+      ],
+      "lessons_learned": [],
+      "client_concerns": []
+    },
+    "email_count": 2
+  }
+]

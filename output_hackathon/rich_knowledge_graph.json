@@ -1,0 +1,1440 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "Person",
+      "name": "Sage Harris",
+      "organization": "consultingco",
+      "messages_sent": 15,
+      "messages_received": 18,
+      "total_messages": 33,
+      "topics": [
+        "Re",
+        "Your opinion is important to us!",
+        "StartupCo Digital Assets - Next steps",
+        "RE"
+      ],
+      "roles": [
+        "Team Member",
+        "Support/Observer",
+        "Client Lead",
+        "Team Member",
+        "Client Lead",
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-5189356685752271386",
+        "msg_9102048765980628826",
+        "msg_1463323286124383210",
+        "msg_3061928049436433890",
+        "msg_-574647566658254977",
+        "msg_-401547164762319709",
+        "msg_-8739905372211723076",
+        "msg_3606810757387047365",
+        "msg_-6441753599607214809",
+        "msg_-7721419650147328842"
+      ],
+      "id": "sage.harris@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Jamie Adams",
+      "organization": "startupco",
+      "messages_sent": 69,
+      "messages_received": 112,
+      "total_messages": 181,
+      "topics": [
+        "Re",
+        "Fwd",
+        "Swag",
+        "Small favor",
+        "RE"
+      ],
+      "roles": [
+        "Collaborator",
+        "Team Member",
+        "Collaborator",
+        "Team Member",
+        "Collaborator",
+        "Team Member",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator",
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-693163819511416043",
+        "msg_4523498019029555541",
+        "msg_-561567022223950097",
+        "msg_-6503895433493250906",
+        "msg_-6180570778304267145",
+        "msg_5405050334789762816",
+        "msg_2801924388558363941",
+        "msg_-4676781000532376770",
+        "msg_-7051560089280825402",
+        "msg_781581642149256558"
+      ],
+      "id": "jamie.adams@startupco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Terry Palmer",
+      "organization": "consultingco",
+      "messages_sent": 67,
+      "messages_received": 97,
+      "total_messages": 164,
+      "topics": [
+        "Re",
+        "Fwd"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer",
+        "Support/Observer",
+        "Team Member",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer",
+        "Support/Observer",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_6191465457816035045",
+        "msg_6209604899491922600",
+        "msg_9108454514471183193",
+        "msg_1322729114895308383",
+        "msg_2495076451932492569",
+        "msg_-8079289582046893194",
+        "msg_-2311586903679415885",
+        "msg_-1240633834768151628",
+        "msg_5301115998938440664",
+        "msg_7497866664092215875"
+      ],
+      "id": "terry.palmer@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Quinn Baker",
+      "organization": "startupco",
+      "messages_sent": 1,
+      "messages_received": 1,
+      "total_messages": 2,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-924017407284257314"
+      ],
+      "id": "quinn.baker@startupco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Jamie Walker",
+      "organization": "consultingco",
+      "messages_sent": 2,
+      "messages_received": 0,
+      "total_messages": 2,
+      "topics": [
+        "StartupCo interactive brand identity",
+        "Re"
+      ],
+      "roles": [
+        "Team Member"
+      ],
+      "evidence": [
+        "msg_-5168709252623422316",
+        "msg_7616547357847331865"
+      ],
+      "id": "jamie.walker@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Taylor Parker",
+      "organization": "consultingco",
+      "messages_sent": 9,
+      "messages_received": 27,
+      "total_messages": 36,
+      "topics": [
+        "Re",
+        "Fwd"
+      ],
+      "roles": [
+        "Team Member",
+        "Collaborator",
+        "Team Member",
+        "Support/Observer",
+        "Support/Observer",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_6875821336927807551",
+        "msg_780883528052575477",
+        "msg_-7985561091079854598",
+        "msg_4539014426594988638",
+        "msg_7029932767520588219",
+        "msg_-7863879919437908911",
+        "msg_-8775442778105601953",
+        "msg_5925867613027657359",
+        "msg_4968495224921900705"
+      ],
+      "id": "taylor.parker@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Reese Anderson",
+      "organization": "consultingco",
+      "messages_sent": 2,
+      "messages_received": 10,
+      "total_messages": 12,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_2920737836620011756",
+        "msg_-6535376453529985808"
+      ],
+      "id": "reese.anderson@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Indigo Davis",
+      "organization": "consultingco",
+      "messages_sent": 4,
+      "messages_received": 6,
+      "total_messages": 10,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-3514422339556926198",
+        "msg_-5194322678789951736",
+        "msg_3655522018465119890",
+        "msg_3408866360157865577"
+      ],
+      "id": "indigo.davis@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Avery Young",
+      "organization": "consultingco",
+      "messages_sent": 0,
+      "messages_received": 1,
+      "total_messages": 1,
+      "topics": [],
+      "roles": [
+        "Support/Observer"
+      ],
+      "evidence": [],
+      "id": "avery.young@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Terry Garcia",
+      "organization": "consultingco",
+      "messages_sent": 1,
+      "messages_received": 16,
+      "total_messages": 17,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Team Member",
+        "Support/Observer",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_-7307498307537885055"
+      ],
+      "id": "terry.garcia@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Charlie Brooks",
+      "organization": "consultingco",
+      "messages_sent": 1,
+      "messages_received": 1,
+      "total_messages": 2,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_2011528587628041459"
+      ],
+      "id": "charlie.brooks@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Hollis Murray",
+      "organization": "consultingco",
+      "messages_sent": 11,
+      "messages_received": 18,
+      "total_messages": 29,
+      "topics": [
+        "Re",
+        "Weekly BD Highlights",
+        "Fwd"
+      ],
+      "roles": [
+        "Team Member",
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator",
+        "Team Member"
+      ],
+      "evidence": [
+        "msg_5377738062708435364",
+        "msg_-1875856089675543312",
+        "msg_-6850719329267024347",
+        "msg_-3914114297227008208",
+        "msg_7048016745564092617",
+        "msg_-7849208949197498979",
+        "msg_-1279164341818143399",
+        "msg_-2575662095524591122",
+        "msg_7919235512210820578",
+        "msg_-278545054179912953"
+      ],
+      "id": "hollis.murray@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Hayden Evans",
+      "organization": "consultingco",
+      "messages_sent": 16,
+      "messages_received": 31,
+      "total_messages": 47,
+      "topics": [
+        "Re",
+        "Small Favor"
+      ],
+      "roles": [
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator",
+        "Support/Observer",
+        "Support/Observer",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_3733338855032006142",
+        "msg_7454438735327802423",
+        "msg_-1896448639501011883",
+        "msg_-6432826865660455764",
+        "msg_-1106288106431108048",
+        "msg_7376399364714138275",
+        "msg_3816161002229746874",
+        "msg_-2636380154453997587",
+        "msg_2260506219151393551",
+        "msg_590057634016366920"
+      ],
+      "id": "hayden.evans@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Kelly Underwood",
+      "organization": "consultingco",
+      "messages_sent": 59,
+      "messages_received": 71,
+      "total_messages": 130,
+      "topics": [
+        "StartupCo-Product Demo",
+        "StartupCo-Scope",
+        "Re"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Team Member",
+        "Support/Observer",
+        "Collaborator",
+        "Collaborator",
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_888387218355760754",
+        "msg_-7087162047680992840",
+        "msg_-296519288602615396",
+        "msg_8946886352739145420",
+        "msg_-5589306579606643907",
+        "msg_3903865835864523798",
+        "msg_4578016915748233106",
+        "msg_-4587299284917928552",
+        "msg_-784562919421872027",
+        "msg_656991936345459827"
+      ],
+      "id": "kelly.underwood@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Indigo Walker",
+      "organization": "consultingco",
+      "messages_sent": 9,
+      "messages_received": 12,
+      "total_messages": 21,
+      "topics": [
+        "Re",
+        "StartupCo Positioning and Essence",
+        "StartupCo Communication Strategy"
+      ],
+      "roles": [
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_5591279142112871465",
+        "msg_7644250550057780876",
+        "msg_-4597841672620971584",
+        "msg_-2514908848896364321",
+        "msg_586663250748073582",
+        "msg_6336209835625118950",
+        "msg_5585856477916206542",
+        "msg_-6315971102113589412",
+        "msg_-615559334963997047"
+      ],
+      "id": "indigo.walker@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "sam.stone@StartupCo.com, katy@StartupCo.com, Elliott Evans",
+      "organization": "startupco",
+      "messages_sent": 20,
+      "messages_received": 49,
+      "total_messages": 69,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Team Member",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_8621639564691973744",
+        "msg_-5226942108211192798",
+        "msg_8273749641339387771",
+        "msg_1756286683778468414",
+        "msg_-8271338517069334841",
+        "msg_6630621052929213691",
+        "msg_-3442095166849659911",
+        "msg_6599264140893748621",
+        "msg_-4387588577688477542",
+        "msg_-6584808892114150988"
+      ],
+      "id": "sam.stone@startupco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "oakley.brooks@ConsultingCo.com, jamie.adams@StartupCo.com, hayden.moore@ConsultingCo.com, katy@StartupCo.com, elliott.evans@StartupCo.com, mariel@StartupCo.com, kelly.underwood@ConsultingCo.com, terry.palmer@ConsultingCo.com, indigo.walker@ConsultingCo.com",
+      "organization": "consultingco",
+      "messages_sent": 6,
+      "messages_received": 8,
+      "total_messages": 14,
+      "topics": [
+        "StartupCo.com Brand Strategy Workshop",
+        "Re",
+        "StartupCo Brand Strategy Final (Keynote)",
+        "Fwd"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Collaborator",
+        "Team Member",
+        "Support/Observer",
+        "Collaborator",
+        "Team Member"
+      ],
+      "evidence": [
+        "msg_-774773716874849362",
+        "msg_-7820127956143940345",
+        "msg_-2413426506655976743",
+        "msg_-4075957332006868257",
+        "msg_3278969652178769501",
+        "msg_-8123763522620442394"
+      ],
+      "id": "oakley.brooks@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Lennon Quinn",
+      "organization": "consultingco",
+      "messages_sent": 2,
+      "messages_received": 11,
+      "total_messages": 13,
+      "topics": [
+        "Re",
+        "Fwd"
+      ],
+      "roles": [
+        "Support/Observer",
+        "Support/Observer",
+        "Support/Observer",
+        "Support/Observer"
+      ],
+      "evidence": [
+        "msg_8919117150246708117",
+        "msg_-4250021002540243025"
+      ],
+      "id": "lennon.quinn@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Hayden Moore",
+      "organization": "consultingco",
+      "messages_sent": 10,
+      "messages_received": 20,
+      "total_messages": 30,
+      "topics": [
+        "StartupCo Overall Runsheet",
+        "Re"
+      ],
+      "roles": [
+        "Collaborator",
+        "Team Member",
+        "Support/Observer",
+        "Collaborator",
+        "Support/Observer",
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_772876377784065919",
+        "msg_6334101773039929299",
+        "msg_-4358748440448182479",
+        "msg_5349451957195316408",
+        "msg_7034369822588535114",
+        "msg_6211324958299570644",
+        "msg_-39854392835341183",
+        "msg_-3039233686376381890",
+        "msg_6679000567053329044",
+        "msg_1750519808507272418"
+      ],
+      "id": "hayden.moore@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Jules Gray",
+      "organization": "consultingco",
+      "messages_sent": 2,
+      "messages_received": 2,
+      "total_messages": 4,
+      "topics": [
+        "Re",
+        "[Company Name] | New Branding Materials | Final"
+      ],
+      "roles": [
+        "Team Member"
+      ],
+      "evidence": [
+        "msg_-1461175608444950439",
+        "msg_5793261009062709496"
+      ],
+      "id": "jules.gray@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Skylar Stone",
+      "organization": "consultingco",
+      "messages_sent": 1,
+      "messages_received": 1,
+      "total_messages": 2,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-7944168632299210893"
+      ],
+      "id": "skylar.stone@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Indigo Webb",
+      "organization": "consultingco",
+      "messages_sent": 1,
+      "messages_received": 1,
+      "total_messages": 2,
+      "topics": [
+        "StartupCo Manifesto for Brand Identity Presentation"
+      ],
+      "roles": [
+        "Client Lead"
+      ],
+      "evidence": [
+        "msg_6954185662520887575"
+      ],
+      "id": "indigo.webb@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Arden Scott",
+      "organization": "consultingco",
+      "messages_sent": 0,
+      "messages_received": 1,
+      "total_messages": 1,
+      "topics": [],
+      "roles": [
+        "Support/Observer"
+      ],
+      "evidence": [],
+      "id": "arden.scott@consultingco.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Sam Stone",
+      "organization": "genericemail",
+      "messages_sent": 1,
+      "messages_received": 0,
+      "total_messages": 1,
+      "topics": [
+        "Re"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "evidence": [
+        "msg_-8719632478861157745"
+      ],
+      "id": "sam.stone@genericemail.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Jamie Adams",
+      "organization": "genericemail",
+      "messages_sent": 0,
+      "messages_received": 1,
+      "total_messages": 1,
+      "topics": [],
+      "roles": [
+        "Support/Observer"
+      ],
+      "evidence": [],
+      "id": "jamie.adams@genericemail.com"
+    },
+    {
+      "node_type": "Person",
+      "name": "Bailey Taylor",
+      "organization": "consultingco",
+      "messages_sent": 0,
+      "messages_received": 2,
+      "total_messages": 2,
+      "topics": [],
+      "roles": [
+        "Team Member"
+      ],
+      "evidence": [],
+      "id": "bailey.taylor@consultingco.com"
+    },
+    {
+      "node_type": "Organization",
+      "name": "consultingco",
+      "people_count": 21,
+      "id": "org_consultingco"
+    },
+    {
+      "node_type": "Organization",
+      "name": "startupco",
+      "people_count": 3,
+      "id": "org_startupco"
+    },
+    {
+      "node_type": "Organization",
+      "name": "genericemail",
+      "people_count": 2,
+      "id": "org_genericemail"
+    }
+  ],
+  "links": [
+    {
+      "edge_type": "WORKS_AT",
+      "source": "sage.harris@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 13,
+      "source": "sage.harris@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "sage.harris@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sage.harris@consultingco.com",
+      "target": "quinn.baker@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 7,
+      "source": "sage.harris@consultingco.com",
+      "target": "reese.anderson@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 5,
+      "source": "sage.harris@consultingco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sage.harris@consultingco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "jamie.adams@startupco.com",
+      "target": "org_startupco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 12,
+      "source": "jamie.adams@startupco.com",
+      "target": "sage.harris@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 29,
+      "source": "jamie.adams@startupco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "jamie.adams@startupco.com",
+      "target": "reese.anderson@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 7,
+      "source": "jamie.adams@startupco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "jamie.adams@startupco.com",
+      "target": "charlie.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 13,
+      "source": "jamie.adams@startupco.com",
+      "target": "hayden.evans@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 34,
+      "source": "jamie.adams@startupco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 5,
+      "source": "jamie.adams@startupco.com",
+      "target": "indigo.walker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 13,
+      "source": "jamie.adams@startupco.com",
+      "target": "sam.stone@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "jamie.adams@startupco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "jamie.adams@startupco.com",
+      "target": "oakley.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 5,
+      "source": "jamie.adams@startupco.com",
+      "target": "hayden.moore@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "jamie.adams@startupco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "jamie.adams@startupco.com",
+      "target": "hollis.murray@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "terry.palmer@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "terry.palmer@consultingco.com",
+      "target": "sage.harris@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 15,
+      "source": "terry.palmer@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "terry.palmer@consultingco.com",
+      "target": "indigo.davis@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 9,
+      "source": "terry.palmer@consultingco.com",
+      "target": "hollis.murray@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.palmer@consultingco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 10,
+      "source": "terry.palmer@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 10,
+      "source": "terry.palmer@consultingco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 9,
+      "source": "terry.palmer@consultingco.com",
+      "target": "hayden.moore@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "terry.palmer@consultingco.com",
+      "target": "oakley.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.palmer@consultingco.com",
+      "target": "jules.gray@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.palmer@consultingco.com",
+      "target": "skylar.stone@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.palmer@consultingco.com",
+      "target": "indigo.webb@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "terry.palmer@consultingco.com",
+      "target": "indigo.walker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.palmer@consultingco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "quinn.baker@startupco.com",
+      "target": "org_startupco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "quinn.baker@startupco.com",
+      "target": "sage.harris@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "quinn.baker@startupco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "jamie.walker@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "jamie.walker@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "taylor.parker@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 4,
+      "source": "taylor.parker@consultingco.com",
+      "target": "indigo.davis@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 8,
+      "source": "taylor.parker@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "taylor.parker@consultingco.com",
+      "target": "hollis.murray@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "taylor.parker@consultingco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "reese.anderson@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "reese.anderson@consultingco.com",
+      "target": "sage.harris@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "reese.anderson@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "reese.anderson@consultingco.com",
+      "target": "avery.young@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "indigo.davis@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "indigo.davis@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "indigo.davis@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "avery.young@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "terry.garcia@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.garcia@consultingco.com",
+      "target": "hayden.evans@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "terry.garcia@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "charlie.brooks@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "charlie.brooks@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "charlie.brooks@consultingco.com",
+      "target": "sage.harris@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "hollis.murray@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 9,
+      "source": "hollis.murray@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 5,
+      "source": "hollis.murray@consultingco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hollis.murray@consultingco.com",
+      "target": "hayden.moore@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 4,
+      "source": "hollis.murray@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hollis.murray@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "hollis.murray@consultingco.com",
+      "target": "bailey.taylor@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "hayden.evans@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 11,
+      "source": "hayden.evans@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 6,
+      "source": "hayden.evans@consultingco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 7,
+      "source": "hayden.evans@consultingco.com",
+      "target": "sam.stone@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.evans@consultingco.com",
+      "target": "oakley.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "hayden.evans@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.evans@consultingco.com",
+      "target": "jules.gray@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.evans@consultingco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.evans@consultingco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.evans@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "kelly.underwood@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 20,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 12,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "hayden.evans@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 47,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "indigo.walker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 28,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "sam.stone@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "kelly.underwood@consultingco.com",
+      "target": "hollis.murray@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "indigo.walker@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "indigo.walker@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 7,
+      "source": "indigo.walker@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "indigo.walker@consultingco.com",
+      "target": "sam.stone@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "indigo.walker@consultingco.com",
+      "target": "hayden.moore@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "indigo.walker@consultingco.com",
+      "target": "oakley.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "indigo.walker@consultingco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "sam.stone@startupco.com",
+      "target": "org_startupco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sam.stone@startupco.com",
+      "target": "terry.garcia@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 4,
+      "source": "sam.stone@startupco.com",
+      "target": "hayden.evans@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "sam.stone@startupco.com",
+      "target": "hayden.moore@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 15,
+      "source": "sam.stone@startupco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sam.stone@startupco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 17,
+      "source": "sam.stone@startupco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "oakley.brooks@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "oakley.brooks@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "oakley.brooks@consultingco.com",
+      "target": "indigo.walker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "oakley.brooks@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "oakley.brooks@consultingco.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "oakley.brooks@consultingco.com",
+      "target": "arden.scott@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "lennon.quinn@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "lennon.quinn@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "lennon.quinn@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "lennon.quinn@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "hayden.moore@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 8,
+      "source": "hayden.moore@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 3,
+      "source": "hayden.moore@consultingco.com",
+      "target": "taylor.parker@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "hayden.moore@consultingco.com",
+      "target": "hollis.murray@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.moore@consultingco.com",
+      "target": "oakley.brooks@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.moore@consultingco.com",
+      "target": "jamie.adams@startupco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "hayden.moore@consultingco.com",
+      "target": "lennon.quinn@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "jules.gray@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 2,
+      "source": "jules.gray@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "skylar.stone@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "skylar.stone@consultingco.com",
+      "target": "hayden.evans@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "skylar.stone@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "indigo.webb@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "indigo.webb@consultingco.com",
+      "target": "terry.palmer@consultingco.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "arden.scott@consultingco.com",
+      "target": "org_consultingco"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "sam.stone@genericemail.com",
+      "target": "org_genericemail"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sam.stone@genericemail.com",
+      "target": "kelly.underwood@consultingco.com"
+    },
+    {
+      "edge_type": "COMMUNICATED_WITH",
+      "weight": 1,
+      "source": "sam.stone@genericemail.com",
+      "target": "jamie.adams@genericemail.com"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "jamie.adams@genericemail.com",
+      "target": "org_genericemail"
+    },
+    {
+      "edge_type": "WORKS_AT",
+      "source": "bailey.taylor@consultingco.com",
+      "target": "org_consultingco"
+    }
+  ]
+}
