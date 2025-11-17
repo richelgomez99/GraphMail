@@ -1,5 +1,7 @@
 """Agent 1: Email Parser & Project Identifier
 Cleans emails, identifies projects, and groups related communications.
+
+Security: Integrated input sanitization (Article VIII: Security by Default)
 """
 
 import re
@@ -7,6 +9,14 @@ import hashlib
 from typing import List, Dict
 from datetime import datetime, timedelta
 from collections import defaultdict
+import structlog
+
+# Import sanitization modules
+from src.sanitization.html_sanitizer import sanitize_html
+from src.sanitization.email_validator import validate_email_address, EmailValidationError
+from src.sanitization.body_truncator import truncate_body
+
+logger = structlog.get_logger(__name__)
 
 
 def parse_email_thread(email_obj: Dict) -> Dict:
@@ -27,7 +37,22 @@ def parse_email_thread(email_obj: Dict) -> Dict:
     
     # Extract body text
     body_text = email_obj.get('body_text', email_obj.get('body', ''))
-    
+
+    # SECURITY: Sanitize HTML before processing
+    body_text = sanitize_html(body_text)
+
+    # SECURITY: Truncate body to prevent memory exhaustion
+    truncation_result = truncate_body(body_text, max_length=5000)
+    body_text = truncation_result.body
+
+    if truncation_result.was_truncated:
+        logger.warning(
+            "email.body_truncated",
+            message_id=message_id,
+            original_length=truncation_result.original_length,
+            truncated_chars=truncation_result.truncated_chars
+        )
+
     # Clean body
     body_clean = remove_signature(body_text)
     body_clean = remove_forward_chains(body_clean)
@@ -97,7 +122,10 @@ def remove_forward_chains(text: str) -> str:
 
 
 def extract_all_participants(email_obj: Dict) -> List[str]:
-    """Extract all email participants."""
+    """Extract all email participants with email validation.
+
+    SECURITY: Validates all email addresses (Article VIII: Security by Default)
+    """
     participants = set()
     
     # Add sender

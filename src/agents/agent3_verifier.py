@@ -1,5 +1,7 @@
 """Agent 3: Verification & Graph Builder
 Verifies extracted facts and builds knowledge graph.
+
+Security: Integrated rate limiting (Article VIII: Security by Default)
 """
 
 import json
@@ -8,6 +10,12 @@ from typing import List, Dict, Optional
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 import os
+import structlog
+
+# Import security modules
+from src.sanitization.rate_limiter import rate_limited_llm_call
+
+logger = structlog.get_logger(__name__)
 
 
 def get_llm():
@@ -248,7 +256,8 @@ Output ONLY the JSON, no additional text.
 """
         
         try:
-            response = self.llm.invoke(prompt)
+            # SECURITY: Invoke LLM with rate limiting
+            response = rate_limited_llm_call(self.llm.invoke, prompt)
             content = response.content
             
             # Parse JSON

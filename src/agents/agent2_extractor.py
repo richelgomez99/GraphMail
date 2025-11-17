@@ -1,5 +1,7 @@
 """Agent 2: Project Intelligence Extractor
 Extracts structured project data using LLMs.
+
+Security: Integrated rate limiting and prompt injection detection (Article VIII)
 """
 
 import json
@@ -7,6 +9,13 @@ from typing import List, Dict
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 import os
+import structlog
+
+# Import security modules
+from src.sanitization.rate_limiter import rate_limited_llm_call
+from src.sanitization.prompt_injection_detector import detect_prompt_injection
+
+logger = structlog.get_logger(__name__)
 
 
 def get_llm():
@@ -45,9 +54,19 @@ def extract_project_intelligence_llm(
     # Build extraction prompt
     prompt = build_extraction_prompt(project_id, project_name, email_context)
     
-    # Invoke LLM
+    # SECURITY: Check for prompt injection before sending to LLM
+    injection_check = detect_prompt_injection(prompt)
+    if injection_check.is_suspicious:
+        logger.warning(
+            "agent2.prompt_injection_detected",
+            project_id=project_id,
+            threat_level=injection_check.threat_level,
+            patterns=injection_check.detected_patterns
+        )
+
+    # SECURITY: Invoke LLM with rate limiting
     print(f"[Agent 2] Extracting intelligence for {project_name}...")
-    response = llm.invoke(prompt)
+    response = rate_limited_llm_call(llm.invoke, prompt)
     
     # Parse response
     try:
