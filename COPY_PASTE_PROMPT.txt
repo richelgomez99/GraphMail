@@ -1,0 +1,139 @@
+=================================================================================
+COPY THIS ENTIRE PROMPT TO YOUR NEW CODING AGENT
+=================================================================================
+
+You are implementing the production transformation for GRAPHMAIL, a Graph-First Project Intelligence System. Your mission is to transform this codebase from a hackathon prototype (4/10 production readiness) to an enterprise-grade system (7/10) in 25 hours.
+
+## YOUR COMPLETE CONTEXT PACKAGE
+
+You have 47 documents (11,403 lines) in the `speckit/` folder:
+
+### STEP 1 - READ THESE FIRST (REQUIRED):
+
+1. **speckit/AGENT_INITIALIZATION.md** - YOUR PRIMARY GUIDE
+   - Complete SpecKit implementation workflow
+   - TDD methodology with detailed examples
+   - Task execution rules and quality gates
+   - **READ THIS ENTIRE FILE BEFORE WRITING ANY CODE**
+
+2. **speckit/IMPLEMENTATION_READY.md** (489 lines)
+   - Overview of all 5 features
+   - Week-by-week roadmap
+   - Success criteria & expected outcomes
+
+3. **speckit/audit/speckit-prep/constitution.md** (381 lines)
+   - **9 IMMUTABLE DEVELOPMENT PRINCIPLES**
+   - Zero-Hallucination Principle
+   - Test-Driven Development (80%+ coverage REQUIRED)
+   - Security by Default
+   - **YOU MUST FOLLOW THESE IN ALL CODE**
+
+### STEP 2 - UNDERSTAND THE PROBLEMS:
+
+**Comprehensive Audit** (speckit/audit/speckit-prep/):
+- AUDIT_REPORT.md (50 KB) - Complete technical audit
+  - Security: OWASP 3/10 (7 major vulnerabilities)
+  - Quality: 27.5% code duplication, 38+ print statements
+  - Performance: 5x slower than target (156s vs <30s)
+  
+- SECURITY_VULNERABILITIES.md - 7 critical security issues
+- TASK_PRIORITIES.md - Work prioritized by impact/effort
+
+### STEP 3 - YOUR IMPLEMENTATION SPECS:
+
+**5 Features to Build** (speckit/implementation/specs/):
+
+Each feature has 6 files:
+- spec.md - User requirements (WHAT to build)
+- plan.md - Technical architecture (HOW to build)
+- tasks.md - 24 actionable tasks (STEP-BY-STEP)
+- data-model.md - Entity models
+- research.md - Technology decisions
+- contracts/ - API contracts
+
+**Recommended Order**:
+1. 001-implement-comprehensive-input-sanitization (CRITICAL - 4h)
+2. 003-implement-robust-retry-logic (CRITICAL - 3h)
+3. 002-replace-all-print-statements (HIGH - 6h)
+4. 004-implement-centralized-configuration-management (HIGH - 4h)
+5. 005-consolidate-11-redundant-demo (HIGH - 8h)
+
+## YOUR FIRST ACTIONS (START HERE):
+
+```bash
+# 1. Read your primary guide (15 min)
+cat speckit/AGENT_INITIALIZATION.md
+
+# 2. Read master overview (10 min)
+cat speckit/IMPLEMENTATION_READY.md
+
+# 3. Learn the principles (5 min) - CRITICAL
+cat speckit/audit/speckit-prep/constitution.md
+
+# 4. Set up environment (10 min)
+pip install -r requirements.txt
+pip install pytest pytest-cov structlog tenacity bleach email-validator pydantic
+cp speckit/ENV_TEMPLATE.env .env
+# Edit .env and add your API keys
+
+# 5. Checkout first feature (2 min)
+git checkout 001-implement-comprehensive-input-sanitization
+
+# 6. Read feature context (10 min)
+cat speckit/implementation/specs/001-implement-comprehensive-input-sanitization/spec.md
+cat speckit/implementation/specs/001-implement-comprehensive-input-sanitization/tasks.md
+
+# 7. Start with T001 (15-30 min)
+# Follow TDD: Write test → Verify fail → Implement → Verify pass → Refactor → Commit
+```
+
+## CRITICAL RULES (MUST FOLLOW):
+
+1. **TEST-DRIVEN DEVELOPMENT (TDD)**:
+   - ALWAYS write test first (RED)
+   - ALWAYS verify test fails
+   - THEN implement code (GREEN)
+   - ALWAYS verify test passes
+   - THEN refactor if needed
+   - NEVER skip this cycle
+
+2. **CONSTITUTIONAL PRINCIPLES**:
+   - Read speckit/audit/speckit-prep/constitution.md
+   - Follow all 9 principles in every line of code
+   - Article VI: Test-Driven Development is MANDATORY
+
+3. **QUALITY GATES**:
+   - 80%+ test coverage (pytest --cov=src tests/)
+   - Linting passes (pylint src/)
+   - Type checking passes (mypy src/)
+   - All acceptance criteria met (from spec.md)
+
+4. **TASK TRACKING**:
+   - Mark each completed task as [X] in tasks.md
+   - Commit after each task
+   - Use conventional commits: feat(), test(), refactor(), docs()
+
+## EXPECTED OUTCOMES:
+
+After 25 hours (5 features × 24 tasks):
+- Production Readiness: 4/10 → 7/10 (+75%)
+- OWASP Security: 3/10 → 7/10 (+133%)
+- Pipeline Reliability: 60% → 99%+ (+65%)
+- Code Duplication: 27.5% → <5% (-82%)
+- Print Statements: 38+ → 0 (-100%)
+- Hardcoded Values: 25+ → 0 (-100%)
+- Test Coverage: 20% → 80%+ (+300%)
+
+## YOUR IMMEDIATE NEXT STEP:
+
+Read this file now:
+```
+cat speckit/AGENT_INITIALIZATION.md
+```
+
+This is your complete implementation guide. Read it thoroughly, then begin execution.
+
+=================================================================================
+END OF PROMPT - Give this to your new coding agent
+=================================================================================
+
