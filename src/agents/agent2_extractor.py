@@ -219,7 +219,8 @@ Output ONLY the JSON, no additional text.
 """
             
             try:
-                response = llm.invoke(prompt)
+                # SECURITY: Invoke LLM with rate limiting and retry logic
+                response = rate_limited_llm_call(llm.invoke, prompt)
                 challenge_data = json.loads(response.content)
                 
                 if challenge_data and 'text' in challenge_data:
@@ -266,7 +267,8 @@ Output ONLY the JSON, no additional text.
 """
             
             try:
-                response = llm.invoke(prompt)
+                # SECURITY: Invoke LLM with rate limiting and retry logic
+                response = rate_limited_llm_call(llm.invoke, prompt)
                 resolution_data = json.loads(response.content)
                 
                 if resolution_data and 'text' in resolution_data:
